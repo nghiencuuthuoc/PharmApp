@@ -1,4 +1,4 @@
-![](PharmApp-logo-20210707-02.png)
+![](PharmApp-logo-20210724.png)
 
 # [PharmApp](http://www.nghiencuuthuoc.com/search/label/PharmApp)
 
