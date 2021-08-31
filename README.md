@@ -2,7 +2,7 @@
 
 # [PharmApp](http://www.nghiencuuthuoc.com/search/label/PharmApp)
 
-## [Apps](http://www.nghiencuuthuoc.com/search/label/Phan-mem)
+## [Application for Pharmaceuticals](http://www.nghiencuuthuoc.com/search/label/Phan-mem)
 
 ## Drug discovery
 1. [Drug discovery notebook 01](Drug_Discovery_01.ipynb)
