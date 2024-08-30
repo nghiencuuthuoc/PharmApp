@@ -1,12 +1,12 @@
 <a href="https://github.com/nghiencuuthuoc/PharmApp/PharmApp.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-![](https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/master/PharmApp-logo.png)
+![](https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/master/images/PharmApp-logo.png)
 # PharmApp - Research and Development Pharmaceuticals
 Copyright 2024 | Nghiên Cứu Thuốc | RD Pharma Plus
 
 Copyright 2024 | Nghiên Cứu Thuốc | RD_Pharma_Plus
 
-Email: nghiencuuthuoc@gmail.com | http://www.nghiencuuthuoc.com | https://twitter.com/nghiencuuthuoc | https://facebook.com/nghiencuuthuoc
+Email: nghiencuuthuoc@gmail.com | nghiencuuthuoc.com | x.com/nghiencuuthuoc | facebook.com/nghiencuuthuoc
 
 ## [PharmApp on Web](http://www.nghiencuuthuoc.com/search/label/PharmApp)
 
