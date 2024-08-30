@@ -4,13 +4,9 @@
 # PharmApp - Research and Development Pharmaceuticals
 Copyright 2024 | Nghiên Cứu Thuốc | RD Pharma Plus
 
-Email: nghiencuuthuoc@gmail.com | info@nghiencuuthuoc.com
+Copyright 2024 | Nghiên Cứu Thuốc | RD_Pharma_Plus
 
-Web: http://www.nghiencuuthuoc.com
-
-See more: https://twitter.com/nghiencuuthuoc | https://facebook.com/nghiencuuthuoc
-
-# 
+Email: nghiencuuthuoc@gmail.com | http://www.nghiencuuthuoc.com | https://twitter.com/nghiencuuthuoc | https://facebook.com/nghiencuuthuoc
 
 ## [PharmApp on Web](http://www.nghiencuuthuoc.com/search/label/PharmApp)
 
