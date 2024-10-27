@@ -42,6 +42,7 @@ Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc
 
 ## releases
 [Download release build run portable](https://github.com/nghiencuuthuoc/PharmApp/releases)
+> ***A lot of file can't upload, will upload in release
 ## Notebook
 - [PharmApp Notebook](PharmApp.ipynb)
 - [See more notebook](https://github.com/nghiencuuthuoc/PharmApp/notebook/)
