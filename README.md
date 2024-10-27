@@ -12,9 +12,11 @@
 # PharmApp - Drug Discovery and Development
 Copyright 2024 | Nghiên Cứu Thuốc | RD_Pharma_Plus
 
-Email: nghiencuuthuoc@gmail.com | Web: nghiencuuthuoc.com | FB: facebook.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc 
+Email: nghiencuuthuoc@gmail.com | Web: nghiencuuthuoc.com | FB: facebook.com/nghiencuuthuoc 
 
-LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsAapp: +84888999311 | Twitter: x.com/nghiencuuthuoc 
+LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsAapp: +84888999311
+
+Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc 
 
 ## [PharmApp on Web](http://www.nghiencuuthuoc.com/search/label/PharmApp)
 
