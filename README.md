@@ -18,9 +18,9 @@ LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsAapp: +8488
 
 Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc 
 
-## [PharmApp on Web](http://www.nghiencuuthuoc.com/search/label/PharmApp)
+## [PharmApp on Web wwww.nghiencuuthuoc.com](http://www.nghiencuuthuoc.com/search/label/PharmApp)
 
-## [Application for Pharmaceuticals](http://www.nghiencuuthuoc.com/search/label/Phan-mem)
+## [Application for Pharmaceuticals on wwww.nghiencuuthuoc.com](http://www.nghiencuuthuoc.com/search/label/Phan-mem)
 
 ## scripts
 
@@ -47,4 +47,5 @@ Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc
 - [PharmApp Notebook](PharmApp.ipynb)
 - [See more notebook](https://github.com/nghiencuuthuoc/PharmApp/notebook/)
 
-
+## Video
+[View more videos on YouTube](https://www.youtube.com/@nghiencuuthuoc)
