@@ -22,9 +22,28 @@ Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc
 
 ## [Application for Pharmaceuticals](http://www.nghiencuuthuoc.com/search/label/Phan-mem)
 
+## scripts
+
+| Windows Shortcut | Description |
+| ----------- | ----------- |
+| iigsf | iigs_input_file.py |
+| iigs1 |  iigs.py |
+| iigt | scripts\test.bat |
+| iigti | notebook\test.ipynb |
+| iigva | iig_view_all.py |
+| iigm | iig_view_multi_pandasgui.py |
+| iig2f | iig2formula.py |
+| iigdt |  iig_daily.txt |
+| iigf | iig_input_file_name.bat |
+| iignt | view_iig_dt.py | 
+| iigni | view_col_inactive.py |
+| iignn | view_iig_ndc.py |
+| iign | view_iig_pdg.py |
+
+## releases
+[Download release build run portable](https://github.com/nghiencuuthuoc/PharmApp/releases)
 ## Notebook
-0. [PharmApp Notebook](PharmApp.ipynb)
-1. [Drug discovery notebook 01](/notebook/Drug_Discovery_01.ipynb)
-2. [Drug discovery notebook 02](/notebook/Drug_Discovery_02.ipynb)
-3. [Drug discovery notebook 03](/notebook/Drug_Discovery_03.ipynb)
+- [PharmApp Notebook](PharmApp.ipynb)
+- [See more notebook](https://github.com/nghiencuuthuoc/PharmApp/notebook/)
+
 
