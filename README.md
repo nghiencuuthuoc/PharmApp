@@ -28,6 +28,7 @@ Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc
 - [Releases](#Releases)
 - [Notebook](#Notebook)
 - [Video](#Video)
+- [License](#License)
 
 
 ## Installation
