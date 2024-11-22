@@ -18,5 +18,5 @@ LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsAapp: +8488
 
 Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc 
 
-## physicochemical
+## pickle
 This folder data too large can't upload. Download standalone from [release](https://github.com/nghiencuuthuoc/PharmApp/releases)
