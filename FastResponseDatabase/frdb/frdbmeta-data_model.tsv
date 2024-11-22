@@ -1,0 +1,135 @@
+domain	field	field name in merged curated file	field type	data type	dictionary	format	description
+pk	compound_id		FK	integer			Compound ID
+pk	id		PK	integer			PK entry ID
+pk	pk_annotated_form	annotated_form	main	string			Name of annotated form of the drug (if different from the name of the drug)
+pk	pk_source_type	source_type	main	dictionary	pk_source_type		Type of the information source: drug label, other government, review, etc
+pk	pk_source_uri	url	main	string		URL	URL of the data source
+pk	pk_species	species_label	main	string	pk_species		Species in which PK was measured, e.g. Homo sapiens
+pk	pk_sex	sex	main	dictionary	pk_sex		Sex of PK population
+pk	pk_age_group	age_group	main	dictionary	pk_age_group		Age group of PK population (adult, children, adolescent etc)
+pk	pk_health_status	health_status	main	dictionary	pk_health_status		Health status of PK population (healthy, unhealthy, pregnant, unknown)
+pk	pk_food_status	food_status	main	dictionary	pk_food_status		How the drug was administered in relation to food (e.g patient was fed, fasted, food status unknown)
+pk	pk_population_size		main	integer			Size of the population used in PK study
+pk	pk_population_comment		main	string			Curator comments related to the population
+pk	pk_experiment_type	experiment_type	main	dictionary	pk_experiment_type		How many times the drug was administered (single, steady-state, multiple)
+pk	pk_exp_other_types	experiment_type_other	main	string			For ""other"" experiment type stores information about administration (e.g. infusion, 15 hour)
+pk	pk_routes	route	main	dictionary	pk_routes		Route of administration (oral, intravenous etc)
+pk	pk_adm_other_routes	route_other	technical	string			Technical field for storing other routes of administration
+pk	pk_dose_type	dose_type	main	dictionary	pk_dose_type		Type of the dose administered (recommended, MTD, max daily etc)
+pk	pk_dose_other_types	dose_type_other	technical	string			Technical field for storing other types of doses
+pk	pk_dose_value	dose_value	main	double			Value of the dose
+pk	pk_dose_units	dose_units	main	dictionary	pk_dose_units	dose	Units for the dose
+pk	pk_dose_other_units	dose_units_other	technical	string			Technical field for storing other dose units
+pk	pk_frequency_times	freq_times	main	double			Administration frequency: how many times the drug was administered in a specified period of time
+pk	pk_frequency_period	freq_period	main	dictionary	pk_frequency_period		Administration frequency: what's time period corresponding to the frequency
+pk	pk_frequency_other_period	freq_period_other	technical	string			Technical field for storing other periods
+pk	pk_application_comment		main	string			Curator comments related to the drug application
+pk	pk_application_query	combination_query	technical	string			Name or SMILES for the drug which was co-administered with the main drug. This field served as a request for drug lookup for co-administered drug
+pk	pk_application_pt	combination_pt	main	string			Name of the drug which was co-administered with the main drug
+pk	pk_application_mw		technical	double			Molecular weight of co-administered drug.
+pk	pk_application_smiles	combination_smiles	main	string		SMILES	SMILES for the drug which was co-administered with the main drug
+pk	pk_application_unii	combination_unii	main	string		UNII	UNII for co-administered drug
+pk	pk_application_cid	combination_cid	main	string		PubChem ID	PubChem Identifier of co-administered drug.
+pk	pk_application_combo_comment		main	string			Curator comments related to the co-administered drugs
+pk	pkappcombo		technical	boolean			Is the drug used in combination. This is the technical field for UI to display the combination data
+pk	pk_analyte_tissue	analyte_tissue	main	dictionary	pk_analyte_tissue		Tissue where the analyte was detected
+pk	pk_analyte_other_tissue		technical	string			Technical field for storing tissues not from the dictionary
+pk	pk_analyte_query	analyte_query	technical	string			Name or SMILES for the analyte. This field served as a request for drug lookup for analyte
+pk	pk_analyte_pt	analyte_pt	main	string			Name of the PK analyte
+pk	pk_analyte_mw	analyte_mw	main	double			Molecular weight of PK analyte
+pk	pk_analyte_smiles	analyte_smiles	main	string		SMILES	SMILES for the analyte
+pk	pk_analyte_unii	analyte_unii	main	string		UNII	UNII for the analyte
+pk	pk_analyte_cid	analyte_cid	main	string		PubChem ID	PubChem identifier for analyte
+pk	pk_cmax_value	cmax_value	main	double			Cmax value
+pk	pk_cmax_units	cmax_units	main	dictionary	pk_cmax_units	concentration	Units for Cmax
+pk	pk_cmax_other_units	cmax_units_other	technical	string			Technical field for storing other Cmax units
+pk	pk_auc_value	auc_value	main	double			AUC value
+pk	pk_auc_type	auc_type	main	dictionary	pk_auc_type		Type of the timeframe on which AUC was measured (infinity, t, unknown)
+pk	pk_auc_hours	auc_time	main	double			For AUC0-t value of t in hours
+pk	pk_auc_units	auc_units	main	dictionary	pk_auc_units	concentration-time AUC	AUC units
+pk	pk_auc_other_units	auc_units_other	technical	string			Technical field for storing other AUC units
+pk	pk_thalf_value	thalf_value	main	double			T1/2 value
+pk	pk_thalf_units	thalf_units	main	dictionary	pk_thalf_units	time	T1/2 units
+pk	pk_thalf_other_units	thalf_units_other	technical	string			Technical field for storing other T1/2 units
+pk	pk_funbound_value	funbound_value	main	double			Funbound value (expressed in %)
+pk	pk_funbound_comment	funbound_comment	main	string			Curator comments on Funbound value
+toxicity	compound_id		FK	integer			Compound ID
+toxicity	id		PK	integer			Toxicity entry ID
+toxicity	toxicity_source_uri	url	main	string		URL	URL of the data source
+toxicity	toxicity_source_page	url_page	main	string			Page of the source document, or study identifier
+toxicity	toxicity_source_type		technical	string			Source type (label, experiment etc). Note: this field is not populated at the current version
+toxicity	toxicity_species	species	main	string	toxicity_species		Species where toxicity was measured (e.g. Homo sapiens)
+toxicity	toxicity_population_size	population_size	main	integer			The total size of population treated with the drug, corresponding to AE frequency
+toxicity	toxicity_sex	sex	main	dictionary	toxicity_sex		Sex of studied population
+toxicity	toxicity_age_group_median	age_med	main	double			Median age of the studied population
+toxicity	toxicity_age_group_from	age_min	main	double			Youngest age of the studied patients
+toxicity	toxicity_age_group_to	age_max	main	double			Oldest age of the studied patients
+toxicity	toxicity_age_group	age	main	string			Age group of studied population (adult, children, adolescent etc)
+toxicity	toxicity_food_status		main	string			How the drug was administered in relation to food (e.g patient was fed, fasted, food status unknown). Note that in current version food status was not curated
+toxicity	toxicity_health_status	health_status	main	dictionary	toxicity_health_status		Health status of Tox population (healthy, unhealthy, pregnant, unknown)
+toxicity	toxicity_do	disease	main	string			Name of the disease for unhealthy population
+toxicity	toxicity_do_id		main	string		DOID	DOID for diseases
+toxicity	toxicity_experiment_type	adm_type	main	dictionary	toxicity_experiment_type		How many times the drug was administered (single, steady-state, multiple)
+toxicity	toxicity_exp_other_types		technical	string			Technical fields to store non-standard experiment types
+toxicity	toxicity_routes	route	main	dictionary	toxicity_routes		Route of administration (oral, intravenous etc)
+toxicity	toxicity_adm_other_routes		technical	string			Technical fields to store non-standard administration routes
+toxicity	toxicity_dose_type	dose_type	main	dictionary	toxicity_dose_type		Type of the dose administered (recommended, MTD, max daily etc)
+toxicity	toxicity_dose_other_types		technical	string			Technical fields to store non-standard type of administered dose
+toxicity	toxicity_dose_value	dose_value	main	integer			Dose value
+toxicity	toxicity_dose_units	dose_units	main	dictionary	toxicity_dose_units	dose	Dose units
+toxicity	toxicity_dose_other_units		technical	string			Technical field to store dose units
+toxicity	toxicity_diff_dose_type	diff_dose_type	main	dictionary	toxicity_diff_dose_type		For the cases when different doses were administered to different patients or at different times - type of the provided dose
+toxicity	toxicity_dose_comment	dosing_comment	main	string			Curator comments on dosing regimen
+toxicity	toxicity_duration	adm_duration	main	string			Duration of the drug administration
+toxicity	toxicity_duration_units	adm_duration_units	main	dictionary	toxicity_duration_units		Units of drug administration duration
+toxicity	toxicity_frequency_times	adm_frequency	main	integer			Administration frequency: how many times the drug was administered in a specified period of time
+toxicity	toxicity_frequency_period	adm_period	main	dictionary	toxicity_frequency_period		Administration frequency: what's time period corresponding to the frequency
+toxicity	toxicity_frequency_other_period		technical	string			Technical field for storing other periods
+toxicity	toxicityappcombo		technical	boolean			Technical field that gets enabled when drug was used in combination
+toxicity	tox_application_query	coadm_1_drug	main	string			Name of the 1st combination drug
+toxicity	tox_application_pt		technical	string			Standard name for the 1st combination drug
+toxicity	tox_application_mw		technical	double			Mw for the 1st combination drug
+toxicity	tox_application_smiles		technical	string		SMILES	SMILES for the 1st combination drug
+toxicity	tox_application_cid		technical	string		PubChem ID	PubChem ID for the 1st combination drug
+toxicity	tox_application_unii		technical	string		UNII	UNII for the 1st combination drug
+toxicity	tox_application_dosing_comment	coadm_1_frequency	main	string			Information about administration of the 1st combination drug
+toxicity	tox_application_query_2	coadm_2_drug	main	string			Name of the 2nd combination drug
+toxicity	tox_application_pt_2		technical	string			Standard name for the 2nd combination drug
+toxicity	tox_application_dosing_comment_2	coadm_2_frequency	main	string			Information about administration of the 2nd combination drug
+toxicity	tox_application_query_3	coadm_3_drug	main	string			Name of the 3rd combination drug
+toxicity	tox_application_pt_3		technical	string			Standard name for the 3rd combination drug
+toxicity	tox_application_dosing_comment_3	coadm_3_frequency	main	string			Information about administration of the 3rd combination drug
+adverseevents	id		PK	integer			ID of the adverse event
+adverseevents	tox_id		FK	integer			ID of the toxicity study where AE was observed
+adverseevents	adverseevents_liability	ae	main	string		MedDRA	Name of the adverse event. In current FRDB release AEs are normalized using MedDRA dictionary
+adverseevents	adverseevents_frequency	ae_frequency	main	string		ae_frequency	Frequency of the adverse event can be provided in % or in number of patients with AE.
+adverseevents	adverseevents_frequency_units		technical	string			Units for the adverse event frequency. Note that this field is not populated
+adverseevents	adverseevents_severity	ae_grade	main	dictionary	adverseevents_severity		Severity of the adverse events
+adverseevents	adverseevents_type	ae_is_disc	main	dictionary	adverseevents_type		Does AE lead to treatment discontinuation or dose reduction?
+adverseevents	adverseevents_dlt	ae_is_dlt	main	dictionary	ae_is_dlt		Is AE a DLT?
+adverseevents	adverseevents_comment	ae_comment	main	string			Curator comments about adverse events
+ddi	id		PK	integer			Id of the DDI record
+ddi	compound_id		FK	integer			Compound ID
+ddi	ddi_metabolyte	metabolite	main	string			Name of the metabolite (empty for the parent drug)
+ddi	ddi_url	url	main	string		URL	URL of the data source
+ddi	ddi_page	page	main	string			Page of the source document, or study identifier
+ddi	ddi_target	target	main	string			Target for DDI interaction
+ddi	ddi_relation	relation	main	dictionary	ddi_relation		Relation between drug and target (substrate, inhibitor, activator etc)
+ddi	ddi_reported_magnitude	reported_magnitude	main	string			Reported magnitude of relationship between the drug and target
+ddi	ddi_magnitude	magnitude	main	dictionary	ddi_magnitude		Standardized magnitude of relatioship between the drug and target
+ddi	ddi_type	type	main	dictionary	ddi_type		Type of the measurement characterizing relationship between the drug and target (IC50, Ki etc)
+ddi	ddi_activity	activity	main	double			For the activity or inhibition measured in % - the value of activity at specified concentration
+ddi	ddi_concentration	value	main	double			Value of IC50/Ki in uM, or concentration (in uM) at which activity was reported
+ddi	ddi_comment	comment	technical	string			Curator comments on the in vitro / preclinical measurements
+ddi	ddi_clin_support	clinical_support	main	dictionary	ddi_clin_support		Does clinical investigation support interaction between drug and its DDI target? (yes, no, weak, likely, unlikely)
+ddi	ddi_clin_evidence	clinical_evidence	main	dictionary	ddi_clin_evidence		What type of clinical experiment was done to show support / lack of support for DDI interaction?
+ddi	ddi_clin_comment	clinical_comment	main	string			Curator comment on ddi interaction, and summary of clinical experiment
+sourcing	id		PK	integer			ID of the sourcing record
+sourcing	compound_id		FK	integer			Compound ID
+sourcing	sourcing_vendor_type	vendor_type	main	dictionary	sourcing_vendor_type		Vendor type (database, aggregator)
+sourcing	sourcing_vendor_name	vendor_name	main	string			Name of the vendor
+sourcing	sourcing_vendor_substance_id	vendor_id	main	string			Id of the compound on the vendor's page
+sourcing	sourcing_vendor_substance_url	vendor_url	main	string		URL	URL to the page with compound
+compound	compound_id		PK	integer			Compound ID
+compound	compound_name	drug	main	string			Compound name
+compound	compound_unii		main	string		UNII	Compound UNII

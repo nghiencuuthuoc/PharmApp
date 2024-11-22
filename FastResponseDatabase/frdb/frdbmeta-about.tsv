@@ -1,0 +1,32 @@
+field	Description
+domain	name of the table in FRDB
+field	name of the column in FRDB table
+field name in merged curated file	corresponding name of the column in human-readable curated file
+field type	type of the field: PK - primary key; FK - foreign key; main - field containing data; technical - field containing technical or derived information
+data type	data type: boolean; integer; string; double; dictionary - value is controlled by the dictionary. Dictionaries are provided in the ""dictionary"" sheet
+dictionary	name of the dictionary for the data of ""dictionary"" type
+format	data specifications for some of the ""string"" type values
+description	description of the field
+value	possible value of the term according to the dictionary
+target	DDI target name (preferred value)
+target_class	DDI target class (protein, group, isoform, variant)
+related_targets	Related targets (parent targets for isoforms and variants; componets for groups)
+UNIPROT	UNIPROT id of the DDI target
+ChEMBL	ChEMBL id of the DDI target
+target_name	Full name of the taget
+target_synonym	Synonyms for the target
+target_organism	Organism for DDI target
+target_human_ortholog	Human ortholog for DDI target
+quantity	Quantity measured by a unit
+unit	Unit of measurement
+description	Description of the unit of measurement
+standard_unit_1	Level 1 standard unit
+standard_unit_1_factor	Conversion factor from unit to standard_unit_1. To obtain value in standard_unit_1, value X in units must be multiplied by a standard_unit_1_factor
+standard_unit_2	Level 1 standard unit
+standard_unit_2_factor	Conversion factor from standard_unit_1 to standard_unit_2. To obtain value in standard_unit_2, value X in units must be multiplied by a standard_unit_1_factor times standard_unit_2_factor. The meaning of individual factors are provided in the units_factors table. The values in square brackets means inverse values: for example, conversion factor ""[AMw]*1000000"" means value should be multiplied by 1000000 and then divided by the molecular mass of the analyte expressed in g/mol
+standard_unit_2_conversion_type	Type of the conversion factors involved in conversion between standard unit 1 and standard unit 2
+unit_notes	Notes on the source of units
+unit_factor	Name of the conversion factor
+unit_factor_type	Type of the conversion factor (experimental - for factors which are affected by experimental design; drug - factors which are different for each drug; conventional - standard conversion factors between different systems of measurements; formulation - conversion factors that depend on drug formulation; physiological - factors which depend on physiological parameters of studied population; analyte - factors which depend on the analyte)
+unit_factor_value	Typical values of the factors
+unit_factor_description	Description of the conversion factor
