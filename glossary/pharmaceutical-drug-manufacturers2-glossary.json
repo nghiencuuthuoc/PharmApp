@@ -1,0 +1,924 @@
+{
+  "H": [
+    { "letter": "H", "key": "\n\n" },
+    {
+      "letter": "H",
+      "key": "Hairpin",
+      "content": "\n     A double helical region formed by base pairing between adjacent (inverted)\n    complementary sequences in a single strand of RNA or DNA.\n     \n    "
+    },
+    { "letter": "H", "key": "Haloenzyme", "content": "\n     An enzyme that contains a non-protein component. \n\n\n" },
+    {
+      "letter": "H",
+      "key": "Halogen",
+      "content": "\n     One of the chlorine group (bromine, chlorine, fluorine, iodine) of\n    elements, all univalent; they form monobasic acids with hydrogen, and their\n    hydroxides (fluorine forms none) are monobasic acids. The radioactive\n    element, astatine, also belongs to the halogen group.\n     \n    "
+    },
+    {
+      "letter": "H",
+      "key": "Halophile",
+      "content": "\n     An organism that displays accelerated growth or is dependent on high salt\n    concentrations.\n     \n    "
+    },
+    {
+      "letter": "H",
+      "key": "Handshake",
+      "content": "\n     Requires the recipient of an electronic data record to acknowledge to the\n    sender that the record has been received.\n     \n    "
+    },
+    {
+      "letter": "H",
+      "key": "Handwritten Signature",
+      "content": "\n     The scripted name or legal mark of an individual handwritten by that\n    individual and executed or adopted with the present intention to\n    authenticate a writing in a permanent form. The act of signing with a\n    writing or marking instrument such as a pen or stylus is preserved. The\n    scripted name or legal mark, while conventionally applied to paper, may also\n    be applied to other devices that capture the name or mark. (also see: \n     \n    "
+    },
+    {
+      "letter": "H",
+      "key": "Haploid",
+      "content": "\n     A single set of chromosomes (half the full set of genetic material),\n    present in the egg and sperm cells of animals and in the egg and pollen\n    cells of plants. Human beings have 23 chromosomes in their reproductive\n    cells.\n     \n    "
+    },
+    {
+      "letter": "H",
+      "key": "Hardness",
+      "content": "\n     Concentration of calcium and magnesium salts in water. Hardness originally\n    referred to the soap-consuming power of water; as such it is sometimes also\n    taken to include iron and manganese. \"Permanent hardness\" also\n    known as \"noncarbonated hardness \" is the excess of hardness over\n    alkalinity. \"Temporary hardness\" also known as \"carbonated\n    hardness\" is equal or less than the alkalinity. Permanent hardness can\n    cause boiler or pipe scale and failure of reverse osmosis membranes. \n     \n    "
+    },
+    {
+      "letter": "H",
+      "key": "Harvesting",
+      "content": "\n     The separation of cells from growth media. It can be accomplished by\n    filtration, precipitation, or centrifugation.\n     \n    "
+    },
+    {
+      "letter": "H",
+      "key": "Hazardous Chemical Reaction",
+      "content": "\n     A reaction which generates pressure or byproducts which could cause injury,\n    illness or harm to humans, domestic animals, livestock or wildlife.\n     \n    "
+    },
+    {
+      "letter": "H",
+      "key": "Hazardous Occupancy - Group H - (California Building\n    Code)",
+      "content": "\n     Group H occupancies include buildings or structures, or portions thereof,\n    that involve the manufacturing, processing, generation or storage of\n    materials that constitute a high fire, explosion, or health hazard. There\n    are eight divisions in this Group:\n    \n\n      1. Division 1 - Occupancies with a quantity of material in the\n        building exceeding regulation set limits and that present a high\n        explosion hazard, such as blasting agents, fireworks, black powder,\n        certain oxidizers and detonatable unstable (reactive) materials, and\n        other materials (refer to Code for more details).\n\n      2. Division 2 - Occupancies where combustible dust is manufactured,\n        used, or generated in such a manner that concentrations and conditions\n        creates fire or explosion potential, or occupancies where materials\n        exceeding regulation set limits present a moderate explosion hazard or a\n        hazard from accelerated burning, such as some organic peroxides,\n        pyrophoric gases, flammable or oxidizing gases, some nondetonatable\n        unstable (reactive) materials, and other materials (refer to Code for\n        more details).\n\n      3. Division 3 - Occupancies where flammable solids, other than\n        combustible dust, are manufactured, used or generated, or occupancies\n        where materials exceeding regulation set limits present a high physical\n        hazard, such as some organic peroxides and oxidizers, pyrophoric liquids\n        or solids, flammable solids in storage, flammable or oxidizing cryogenic\n        fluids, and other materials (refer to Code for more details).\n\n      4. Division 4 - Repair garages not classified as Group S, Division 3\n        Occupancies.\n\n      5. Division 5 - Aircraft repair hangars not classified as Group S,\n        Division 5 Occupancies, and heliports.\n\n      6. Division 6 - Semiconductor fabrication facilities and comparable\n        research and development areas in which hazardous production materials\n        (HPM) are used and the aggregate quantity of materials exceeds those set\n        by regulations. Such facilities and areas shall be designed and\n        constructed following a different set of regulations.\n\n      7. Division 7 - Occupancies having quantities of materials in excess\n        of those set by regulations, and that are health hazards, such as\n        corrosives (except stationary lead-acid battery systems), toxic and\n        highly toxic materials, irritants, sensitizers, and other health hazards\n        (refer to Code).\n\n      8. Division 8 - Laboratories and similar areas used for scientific\n        experimentation or research having quantities of materials not in excess\n        of those set by regulations, and not otherwise classified as Group B,\n        Division 2 Occupancies (refer to Code for more details).\n\n    \n    \n      "
+    },
+    {
+      "letter": "H",
+      "key": "Hazardous Substance",
+      "content": "\n       A substance which by reason of being explosive, flammable, toxic,\n      poisonous, corrosive, oxidizing, irritant or otherwise harmful, is likely\n      to cause injury.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Haze",
+      "content": "\n       The abnormal appearance of a localized diminishing in brightness or\n      luster of a surface when compared to the adjacent surfaces.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Health Hazard",
+      "content": "\n       Classification of a chemical for which there is statistically significant\n      evidence based on at least one study conducted in accordance with\n      established scientific principles that acute or chronic health effects may\n      occur in exposed persons. The term \"health hazard\" includes\n      chemicals that are carcinogens, toxic or highly toxic agents, reproductive\n      toxins, irritants, corrosives, sensitizers, hepatotoxins, nephrotoxins,\n      neurotoxins, agents that act on the hematopoietic system, and agents that\n      damage the lungs, skin, eyes or mucous membranes.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Heat",
+      "content": "\n       A form of energy associated with the motion of atoms or molecules in\n      solids and capable of being transmitted through solid and fluid media by\n      conduction, through fluid media by convection, and through empty space by\n      radiation. Two important characteristics of heat are: \n    \n    \n      1. Heat cannot be destroyed, only transferred from on body to\n        another, or converted to another form of energy.\n      2. Heat always flows from the warmer to the colder substance.\n      \n    \n    \n      "
+    },
+    {
+      "letter": "H",
+      "key": "Heat Affected Zone (HAZ)",
+      "content": "\n       That portion of the base metal that has not been melted but whose\n      microstructure or mechanical properties have been altered by the heat of\n      welding, brazing, soldering, forming, or cutting.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Heat Labile",
+      "content": "\n       Able to be destroyed or altered by high temperature. Heat labile\n      pharmaceuticals are sterilized by filtration.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Heat Number",
+      "content": "\n       An alphanumeric identification of a stated tonnage of metal obtained from\n      a continuous melting in a foundry furnace.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Heat of Vaporization",
+      "content": "\n       The amount of heat needed to change a unit volume from a liquid to a\n      vapor at a given pressure without a temperature change.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Heavy Metals",
+      "content": "\n       High molecular weight metal ions, such as lead. Known for their\n      interference with many processes, and \"poisoning\" of catalysts,\n      membranes, and resins.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "HeLa Cells",
+      "content": "\n       An established line of human cervical carcinoma cells used to study the\n      biochemistry and genetics of human cell growth.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Helix",
+      "content": "\n       A spiral, staircase-like, structure with a repeating pattern described by\n      two simultaneous operations, rotation, and translation. It is the natural\n      conformation of many biological polymers.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hematin",
+      "content": "\n       An iron protoporphyrin differing from heme in that the central iron atom\n      is in the ferric (Fe+++) rather than the ferrous (Fe++) state; the\n      prosthetic group of methemoglobin.\n       "
+    },
+    { "letter": "H", "key": "Hematopoietic", "content": "\n        " },
+    { "letter": "H", "key": "Heme", "content": "\n        " },
+    {
+      "letter": "H",
+      "key": "Hemoglobin",
+      "content": "\n       The red, respiratory conjugated protein of erythrocytes, consisting of\n      approximately 6 percent heme and 94 percent globin (a protein).\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hemophilia",
+      "content": "\n       A hereditary, plasma-coagulation disorder, principally affecting males\n      but transmitted by females, and characterized by excessive, sometimes\n      spontaneous, bleeding.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hemopoietic",
+      "content": "\n       Pertaining to or related to the formation of blood cells.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "HEPA (High Efficiency Particulate Air) Filters",
+      "content": "\n       Filters with a minimum efficiency of 99.97% for 0.3µm particle size\n      as determined by test. The test can be by the monodispersed dioctyl\n      phthalate (DOP) method or other equally sensitive method. When operated at\n      design velocity, larger and smaller particles are captured at higher\n      efficiencies. HEPA filters are made of compressed and bonded\n      micro-fiberglass or Teflon® corrugated to produce a high surface area\n      in a small area panel of filter medium. Employed in unidirectional airflow\n      benches, air handlers, and as terminal air supply filters in cleanrooms.  "
+    },
+    {
+      "letter": "H",
+      "key": "Heparin",
+      "content": "\n       A sulphur containing polysaccharide that stops blood from clotting by\n      preventing the conversion of prothrombin to thrombin and by neutralizing\n      thrombin. It is contained in the mast cells and is extractable from\n      various tissues, notably the lung.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hepatotoxin",
+      "content": "\n       A toxin that is destructive to parenchymal (specific tissue) cells of the\n      liver.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Heredity",
+      "content": "\n       Transfer of genetic information from parent cells to progeny.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Heterotrophs",
+      "content": "\n       One of two categories in which microorganisms are classified on the basis\n      of their carbon source. Heterotrophs use organic compounds such as\n      carbohydrates, lipids, and hydrocarbons as a carbon and energy source.  "
+    },
+    {
+      "letter": "H",
+      "key": "Heterozygosity",
+      "content": "\n       The presence of different alleles at one or more loci on homologous\n      chromosomes.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "High Purity Process Systems",
+      "content": "\n       The equipment that includes the stainless steel vessels, tube, pipe,\n      fittings, and valves used to manufacture and transport drug products.  "
+    },
+    {
+      "letter": "H",
+      "key": "Hold-up Volume",
+      "content": "\n       The volume of liquid remaining in a vessel or piping system after it has\n      been allowed to drain.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hollow Fiber",
+      "content": "\n       Refers to reverse osmosis and ultrafiltration membranes formed into small\n      diameter (about 0.05\" I.D.) tubes. The inner surface is a very thin\n      (RO or UF) membrane skin supported by a thicker porous outer layer that\n      gives the tube its strength. Hollow fibers are used in bundles of 1,000 or\n      more in a single cartridge shell. Water is forced through the center\n      (upstream surface) of each tube and purified permeate is collected from\n      the outer wall (downstream surface).\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Homeobox",
+      "content": "\n       A short stretch of nucleotides whose base sequence is virtually identical\n      in all the genes that contains it. It has been found in many organisms\n      from fruit flies to human beings. In the fruit fly, a homeobox appears to\n      determine when particular groups of genes are expressed during\n      development.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Homologous Chromosome",
+      "content": "\n       Chromosome containing the same linear gene sequences as another, each\n      derived from one parent.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Homology",
+      "content": "\n       Similarity in DNA or protein sequences between individuals of the same\n      species or among different species.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hormone",
+      "content": "\n       A type of chemical messenger, occurring both in plants and animals, that\n      acts to inhibit or excite metabolic activities. Its site of production is\n      distant from the site of biological activity.\n      "
+    },
+    { "letter": "H", "key": "\n       " },
+    {
+      "letter": "H",
+      "key": "Host Vector (HV) System",
+      "content": "\n       The host is the organism into which a gene from another organism is\n      transplanted. The guest gene is carried by a vector, which is a larger DNA\n      molecule, such as a plasmid, or a virus into which that gene is\n      genetically engineered and which then propagates in the host. NIH\n      Guidelines under Appendix E. - Certified Host-Vector Systems contains a\n      list of derivatives host-vector systems previously classified as\n      Host-Vector 1 Systems or Host-Vector 2 Systems, they are: Bacillus\n      subtilis, Saccharomyces Cerevisiae, Escherichia coli, Neurospora crassa,\n      Streptomyces, and Pseudonomas putida. (also see:  "
+    },
+    {
+      "letter": "H",
+      "key": "HPLC (High Pressure Liquid Chromatography)",
+      "content": "\n       Sometimes called high-performance liquid chromatography, is a separation\n      technique based on a solid stationary phase and a liquid mobile phase.\n      Separations (into distinct bands) are achieved by partition, adsorption,\n      or ion-exchange processes, depending upon the type of stationary phase\n      used. Each band is then profiled as the solvent flows through a UV\n      detector, or by fluorescence, or refractive index detectors.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "HSA (Human Serum Albumin)",
+      "content": "\n       The main protein constituent of human serum. It has no prosthetic group\n      and is soluble in water and dilute salt solution. It is sometimes used in\n      the treatment of shock, hypoproteinemia, and erythroblastosis fetalis.  "
+    },
+    {
+      "letter": "H",
+      "key": "Human Gene Therapy",
+      "content": "\n       Insertion of normal DNA directly into cells to correct a genetic defect.  "
+    },
+    {
+      "letter": "H",
+      "key": "Human Genome",
+      "content": "\n       The full collection of genes needed to produce a human being.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Human Genome Initiative",
+      "content": "\n       Collective name for several projects begun in 1986 by DOE to: \n\n    \n    \n      1. Create an ordered set of DNA segments from known chromosomal\n        locations.\n      2. Develop new computational methods for analyzing genetic map and\n        DNA sequence.\n      3. Develop new techniques and instruments for detecting and analyzing\n        DNA.\n    \n    \n      This DOE initiative is now known as the Human Genome Program. The\n        national effort, led by DOE and NIH, is known as the Human Genome\n        Project.\n\n      "
+    },
+    { "letter": "H", "key": "Human Genome Project", "content": "\n        " },
+    { "letter": "H", "key": "Humidity Ratio", "content": "\n        " },
+    {
+      "letter": "H",
+      "key": "Huntington's Disease",
+      "content": "\n       An adult-onset disease characterized by progressive mental and physical\n      deterioration; it is caused by an inherited dominant gene mutation.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hybrid Systems",
+      "content": "\n       Combination of electronic and paper records, common in today's analytical\n      labs, in which raw data is recorded electronically to reconstruct the\n      analysis, but the final results are printed and signed on paper. FDA does\n      not prohibit hybrid systems but has expressed some concerns about their\n      usefulness.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hybridization",
+      "content": "\n       The process of joining two complementary strands of DNA or one each of\n      DNA and RNA to form a double-stranded molecule.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hybridoma",
+      "content": "\n       A hybrid cell resulting from the fusion of a specific antibody producing\n      spleen cell with a myeloma cell. The hybrid cell has the growth\n      characteristics of the myeloma component and the antibody secreting\n      characteristics of the spleen cell and will multiply to become a source of\n      large quantities of pure, monoclonal antibody.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hydrogen Peroxide (H2O2)",
+      "content": "\n       A colorless, heavy, strongly oxidizing, unstable liquid used principally\n      in aqueous solutions as an antiseptic, bleaching agent, oxidizing agent,\n      and laboratory reagent. In the vapor phase, as an airborne sterilant.  "
+    },
+    {
+      "letter": "H",
+      "key": "Hydrolysis",
+      "content": "\n       A chemical reaction between water and organic compounds, particularly\n      esters, ketones, and alcohols. This reaction can lead to breakdown of some\n      proteins.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hydrophilic",
+      "content": "\n       Having a strong affinity for water. Its opposite, hydrophobic.\n       "
+    },
+    { "letter": "H", "key": "Hydrophobic", "content": "\n       Non-wetting; water repelling.\n       " },
+    {
+      "letter": "H",
+      "key": "Hydrotest",
+      "content": "\n       A pressure test of piping, pressure vessels, or pressure-containing\n      parts, usually performed by pressurizing the internal volume with water at\n      a pressure determined by the applicable code or to test the integrity of a\n      process system.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hygienic",
+      "content": "\n       Of, or pertaining to, equipment and piping systems that by design,\n      materials of construction, and operation provide for the maintenance of\n      cleanliness (pyrogen free but not sterile) so that products produced by\n      these systems will not adversely affect human or animal health.\n       "
+    },
+    {
+      "letter": "H",
+      "key": "Hygienic Clamp Joint",
+      "content": "\n       A tube outside diameter union consisting of two neutered ferrules having\n      flat faces with a concentric groove and mating gasket that is secured with\n      a clamp, providing a nonprotruding, recessless product contact surface.\n      Tri-clamp™ is a Tri-Clover proprietary name; consequently, it should\n      not be used to describe the above-mentioned fitting unless that particular\n      brand is used.\n       "
+    },
+    { "letter": "H", "key": "Hygroscopicity", "content": "\n       The affinity for absorbing water.\n       " },
+    {
+      "letter": "H",
+      "key": "Hypochlorite",
+      "content": "\n       A weak, unstable salt of hypochlorous acid used in aqueous solutions as a\n      bleach, oxidizer, deodorant, and disinfectant.\n         \n\n"
+    }
+  ],
+  "N": [
+    { "letter": "N", "key": "\n" },
+    {
+      "letter": "N",
+      "key": "National electrical Code®",
+      "content": "\n     The electrical code used throughout the United States. Published by the\n    National Fire Protection Association (NFPA), it is an indispensable aid to\n    every electrician, contractor, architect, builder, inspector, and anyone who\n    must specify or certify electrical installations.\n     \n    "
+    },
+    {
+      "letter": "N",
+      "key": "National Formulary (NF)",
+      "content": "\n     A compendium of purity and testing criteria for chemicals, usually used in\n    combination with the USP.\n\n\n "
+    },
+    {
+      "letter": "N",
+      "key": "Necrosis",
+      "content": "\n     The pathological death of one or more cells, or of a portion of tissue or\n    organ, resulting from irreversible damage to the nucleus.\n     \n    "
+    },
+    {
+      "letter": "N",
+      "key": "NEMA (National Electrical Manufacturers Association)",
+      "content": "\n     Enclosures As a way of standardizing enclosure performance, NEMA uses a\n    rating system to identify the enclosure's ability to resist external\n    environmental influences. Resistance to everything from dripping liquid to\n    hose-down to total submersion is defined by this rating system.\n    \n\n      1. Type 1 - Enclosures constructed for indoor use to provide a degree\n        of protection to personnel against incidental contact with the enclosed\n        equipment and to provide a degree of protection against falling dirt.\n\n      2. Type 2 - Enclosures constructed for indoor use to provide a degree\n        of protection to personnel against incidental contact with the enclosed\n        equipment, to provide a degree of protection against falling dirt, and\n        to provide a degree of protection against dripping and light splashing\n        of liquids.\n\n      3. Type 3 - Enclosures constructed for either indoor or outdoor use\n        to provide a degree of protection to personnel against incidental\n        contact with the enclosed equipment; to provide a degree of protection\n        against falling dirt, rain, sleet, snow, and windblown dust; and that\n        will be undamaged by the external formation of ice on the enclosure.\n\n      4. Type 3R - Enclosures constructed for either indoor or outdoor use\n        to provide a degree of protection to personnel against incidental\n        contact with the enclosed equipment; to provide a degree of protection\n        against falling dirt, rain, sleet, and snow; and that will be undamaged\n        by the external formation of ice on the enclosure.\n\n      5. Type 3S - Enclosures constructed for either indoor or outdoor use\n        to provide a degree of protection to personnel against incidental\n        contact with the enclosed equipment; to provide a degree of protection\n        against falling dirt, rain, sleet, snow, and windblown dust; and in\n        which the external mechanism(s) remain operable when ice laden.\n\n      6. Type 4 - Enclosures constructed for either indoor or outdoor use\n        to provide a degree of protection to personnel against incidental\n        contact with the enclosed equipment; to provide a degree of protection\n        against falling dirt, rain, sleet, snow, and windblown dust, splashing\n        water, and hose-directed water; and that will be undamaged by the\n        external formation of ice on the enclosure.\n\n      7. Type 4X - Enclosures constructed for either indoor or outdoor use\n        to provide a degree of protection to personnel against incidental\n        contact with the enclosed equipment; to provide a degree of protection\n        against falling dirt, rain, sleet, snow, and windblown dust, splashing\n        water, hose-directed water, and corrosion; and that will be undamaged by\n        the external formation of ice on the enclosure.\n\n      8. Type 5 - Enclosures constructed for indoor use to provide a degree\n        of protection to personnel against incidental contact with the enclosed\n        equipment; to provide a degree of protection against falling dirt;\n        against settling airborne dust, lint, fibers, and flyings; and to\n        provide a degree of protection against dripping and light splashing of\n        liquids.\n\n      9. Type 6 - Enclosures constructed for either indoor or outdoor use\n        to provide a degree of protection to personnel against incidental\n        contact with the enclosed equipment; to provide a degree of protection\n        against falling dirt; against hose-directed water and the entry of water\n        during occasional temporary submersion at a limited depth; and that will\n        be undamaged by the external formation of ice on the enclosure.\n\n      10. Type 6P - Enclosures constructed for either indoor or outdoor use\n        to provide a degree of protection to personnel against incidental\n        contact with the enclosed equipment; to provide a degree of protection\n        against falling dirt; against hose-directed water and the entry of water\n        during prolonged submersion at a limited depth; and that will be\n        undamaged by the external formation of ice on the enclosure\n\n      11. Type 12 - Enclosures constructed (without knockouts) for indoor\n        use to provide a degree of protection to personnel against incidental\n        contact with the enclosed equipment; to provide a degree of protection\n        against falling dirt; against circulating dust, lint, fibers, and\n        flyings; and against dripping and light splashing of liquids.\n\n      12. Type 12K - Enclosures constructed (with knockouts) for indoor use\n        to provide a degree of protection to personnel against incidental\n        contact with the enclosed equipment; to provide a degree of protection\n        against falling dirt; against circulating dust, lint, fibers, and\n        flyings; and against dripping and light splashing of liquids.\n\n      13. Type 13 - Enclosures constructed for indoor use to provide a\n        degree of protection to personnel against incidental contact with the\n        enclosed equipment; to provide a degree of protection against falling\n        dirt; against circulating dust, lint, fibers, and flyings; and against\n        the spraying, splashing, and seepage of water, oil, and noncorrosive\n        coolants.\n    \n\n    \n      "
+    },
+    {
+      "letter": "N",
+      "key": "Neoplasm",
+      "content": "\n       Any new growth of cells or tissues but the term is customarily used with\n      rather specific reference to a focus (or a relatively large mass or\n      region) of intermittently or constantly progressive, comparatively\n      unlimited, or uncontrolled new growth that manifests varying degrees of\n      autonomy."
+    },
+    { "letter": "N", "key": "\n       " },
+    {
+      "letter": "N",
+      "key": "Nephelometer",
+      "content": "\n       Any apparatus used to measure the size and concentration of particles in\n      a liquid by analysis of light transmitted through or reflected by the\n      liquid.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "Nephelometry",
+      "content": "\n       The semiquantitative estimation of the concentration of particles in a\n      suspension (e.g. bacterial cells in an antigenic preparation), by means of\n      comparing it with the standard suspensions in a nephelometer.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "Nephrotoxin",
+      "content": "\n       A cytotoxin that is specific for cells of the kidney.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "New Drug Application (NDA)",
+      "content": "\n       The New Drug Application contains most of the information included in the\n      IND. Only after FDA approval of the NDA, can distribution and marketing of\n      a new drug begin.  "
+    },
+    {
+      "letter": "N",
+      "key": "NHSA (Normal Human Serum Albumin)",
+      "content": "\n       A blood plasma fraction usually prepared by Cohn cold ethanol\n      precipitation. Dispensed as a 5% to 25% protein solution.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "NIH (National Institutes of Health)",
+      "content": "\n       Guidelines NIH Guidelines specify practices for constructing and handling\n      recombinant deoxyribonucleic acid (DNA) molecules, and organisms and\n      viruses containing recombinant DNA molecules.  "
+    },
+    {
+      "letter": "N",
+      "key": "Nitrogenous Base",
+      "content": "\n       A nitrogencontaining molecule that has the chemical properties of a base.\n      \n\n      Nominal A numerical identification of dimension, capacity, rating, or\n        other characteristics used as a designation, not as an exact\n        measurement.\n\n      "
+    },
+    {
+      "letter": "N",
+      "key": "Nominal (Rating of Filter)",
+      "content": "\n       An arbitrary micrometer value indicated by filter manufacturers. Based\n      upon removal of some percentage of particles of a given size or larger,\n      but rarely well defined and consequently not reproducible.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "Nominal Pore Size",
+      "content": "\n       Based on retention efficiency, a filter should retain 99.9% of particles\n      larger than its nominal rated pore size.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "Nominal Outside Diameter",
+      "content": "\n       A numerical identification of outside diameter to which tolerances apply.  "
+    },
+    {
+      "letter": "N",
+      "key": "Nominal Wall Thickness",
+      "content": "\n       A numerical identification of wall thickness to which tolerances apply.  "
+    },
+    {
+      "letter": "N",
+      "key": "Noncarbonate Hardness",
+      "content": "\n       Hardness in water caused by chlorides, sulfates, and nitrates of calcium\n      and magnesium.  "
+    },
+    {
+      "letter": "N",
+      "key": "Non-GMP Technology",
+      "content": "\n       Facility design requirement resulting from decisions to address issues\n      outside the realm of GMPs or manufacturer preferences. Often these do\n      affect GMP related design features.\n       "
+    },
+    { "letter": "N", "key": "Non-Laminar Airflow", "content": "\n        " },
+    {
+      "letter": "N",
+      "key": "Nonunidirectional Airflow",
+      "content": "\n       Air distribution where the first air entering the controlled space mixes\n      with the internal air by means of induction. The airflow that does not\n      meet the definition of unidirectional airflow; previously referred to as \"turbulent\"\n      or \"non-laminar\" airflow.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "Normal Saline",
+      "content": "\n       A very common LVP that has a physiologic (0.9gm%) concentration of sodium\n      chloride.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "Northern Blot",
+      "content": "\n       A recombinant DNA technique used for the detection of specific RNA\n      transcripts.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "Not Exposed or Closed",
+      "content": "\n       Drug substance is protected from exposure to the environment during\n      processing.  "
+    },
+    {
+      "letter": "N",
+      "key": "NPDWR Water",
+      "content": "\n       Potable water meeting EPA National Primary Drinking Water Regulations.  "
+    },
+    {
+      "letter": "N",
+      "key": "Nuclease",
+      "content": "\n       An enzyme that breaks down nucleic acids. Exonucleases cleave the\n      nucleotides only at the ends of polynucleotide chains (e.g.\n      phosphodiesterase). Endonucleases attack certain linkates wherever they\n      occur in the polynucleotide chain  "
+    },
+    {
+      "letter": "N",
+      "key": "Nucleic Acid",
+      "content": "\n       A large molecule composed of nucleotide subunits.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "Nucleic Acid Hybridization",
+      "content": "\n       Matching of either DNA or RNA (depending on the organism) from an unknown\n      organism with DNA or RNA from a known organism. This method is used in\n      tropical disease research for identifying species and strains of\n      organisms.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "Nucleoid",
+      "content": "\n       The compact body that contains the genome in a bacterium.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "Nucleolus",
+      "content": "\n       A discrete region of the nucleus created by the transcription of rRNA\n      genes. The nucleolus disappears during mitosis, or cell division.\n       "
+    },
+    {
+      "letter": "N",
+      "key": "Nucleotide",
+      "content": "\n       The structural unit of nucleic acids. A subunit of DNA or RNA consisting\n      of purine bases (adenine, guanine), pyrimidine bases (thymine, or cytosine\n      in DNA; uracil, or cytosine in RNA), a phosphate molecule, and a sugar\n      molecule (deoxyribose in DNA and ribose in RNA). Thousands of nucleotides\n      are linked to form a DNA or RNA molecule.  "
+    },
+    {
+      "letter": "N",
+      "key": "Nucleus",
+      "content": "\n       The cellular organelle present in eukaryotes cells and separated from the\n      cytoplasm by a nuclear membrane. It contains the genetic material and is\n      essential for the continued life of the cell.\n    \n\n"
+    }
+  ],
+  "T": [
+    { "letter": "T", "key": "\n    " },
+    {
+      "letter": "T",
+      "key": "Tangential Flow Filtration",
+      "content": "\n     A separation method that transfers components of one system (stream) into\n    another. The stream the product is being extracted from crosses the stream\n    that the product is being transferred to, multiple times.\n     \n    "
+    },
+    {
+      "letter": "T",
+      "key": "Taxonomy",
+      "content": "\n     The development of approaches to organize and summarize our knowledge about\n    the variety or organisms that exist.\n\n\n"
+    },
+    {
+      "letter": "T",
+      "key": "Tay-Sachs Disease",
+      "content": "\n     An inherited disease of infancy characterized by profound mental\n    retardation and early death; it is caused by a recessive gene mutation. \n     \n    "
+    },
+    {
+      "letter": "T",
+      "key": "Team Biologics",
+      "content": "\n     A partnership between FDA's Office of Regulatory Affairs (ORA) and CBER to\n    focus on inspectional and compliance issues in biologics. Its goal is to\n    ensure the quality and safety of biologic products and resolve\n    inconsistencies.\n     \n    "
+    },
+    {
+      "letter": "T",
+      "key": "T-Cell (T-lymphocyte)",
+      "content": "\n     A blood cell, probably originating from bone marrow, but which matures in\n    the thymus. Some T-cells are responsible for cell-mediated immunity and in\n    the production of antibodies.\n    \n      Telomere The end of a chromosome. This specialized structure is\n        involved in the replication and stability of linear DNA molecules.\n\n      "
+    },
+    {
+      "letter": "T",
+      "key": "Temperature[](undefined)",
+      "content": "\n       A specific degree of heat intensity. There are three temperature\n      designations associated with psychrometrics: 1. Dry Bulb (DB) - The air\n      temperature as measured by a standard thermometer. 2. Wet Bulb (WB) - The\n      air temperature measured by a thermometer with its reservoir bulb wrapped\n      in a moistened cloth wick and exposed to an air stream moving at a\n      velocity of 1,000 feet per minute. 3. Dewpoint temperature (DP) - Also\n      called Saturation Temperature is the temperature at which condensation of\n      moisture begins (air is holding 100% of the moisture it can) when the air\n      is cooled, measured in °F.  "
+    },
+    {
+      "letter": "T",
+      "key": "Terminal Sterilization[](undefined)",
+      "content": "\n       The process applied to product sealed in its final container that\n      transforms a non-sterile product into a sterile one.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Terminal Sterilization",
+      "content": "\n       This term is a gross misnomer because it refers specifically to the\n      terminal heat sterilization of LVPs usually by steam.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Terminally Ill",
+      "content": "\n       For an individual, it means that the subject has a life expectancy of six\n      months or less as stated in writing by his or her attending physician and\n      surgeon.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Test Procedure",
+      "content": "\n       A sequence of activities which when executed successfully provides\n      documentary evidence that part of the system works as specified.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Theoretical Yield[](undefined)",
+      "content": "\n       The quantity that would be produced at any appropriate phase of\n      manufacture, processing, or packing of a particular drug product, based\n      upon the quantity of components to be used, in the absence of any loss or\n      error in actual production.  "
+    },
+    {
+      "letter": "T",
+      "key": "Thermophile[](undefined)",
+      "content": "\n       An organism that grows best at greater than 50ºC (122ºF).  "
+    },
+    {
+      "letter": "T",
+      "key": "Thermophilic (Of A Microorganism)",
+      "content": "\n       With optimum temperature for growth above 45ºC, many thermophilic\n      bacteria exist at high temperatures (greater than 80ºC) and many of\n      their enzymes which posses high thermal stability, are of great commercial\n      interest.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Thrombin (Blood Coagulation Factor II)",
+      "content": "\n       An enzyme (the activated thrombogen) formed in the blood, after this is\n      shed, that converts fibrinogen into fibrin for clot formation. It is\n      formed from conjunction of prothrombin and calcium salts. It is also a\n      sterile protein substance prepared from prothrombin of bovine origin\n      through interaction with thromboplastin in the presence of calcium. Bovine\n      thrombin is often used to aid production of serum from \"salvage\"\n      plasma.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Thrombosis",
+      "content": "\n       Clotting within a blood vessel that may cause infarction of tissues\n      supplied by the vessel.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Throughput Volume",
+      "content": "\n       The amount of solution passed through an exchange bed before the resin is\n      exhausted. \n      A pyrimidine component of nucleic acid first isolated from the\n        thymus.\n\n      "
+    },
+    { "letter": "T", "key": "TIG (Tungsten Inert Gas)", "content": "\n        " },
+    {
+      "letter": "T",
+      "key": "Time Stamp",
+      "content": "\n       A part of the audit trail that clearly documents the sequence of events\n      in human terms, helping to authenticate an electronic signature and\n      minimizing the chances of signer repudiation. A local time stamp\n      correlates with the whereabouts of the signer. With client-server data\n      systems used by international companies and records accessed from remote\n      sites (such as on business trips), time stamps that reflect the local time\n      of only the user might make the sequence of actions for an individual\n      record appear inconsistent. For example, the approval by a peer reviewer\n      could be signed at 9:00 a.m. on a chromatographic analysis that was\n      performed at 11:00 a.m. in a different time zone. Local time stamps should\n      probably be supplemented consistently with the time stamp of a remote\n      server, with one stamp clearly labeled as local.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Tincture of Iodine[](undefined)",
+      "content": "\n       A germicidal solution of iodine in aqueous alcohol used primarily as\n      antiseptic on skin and tissue.  "
+    },
+    {
+      "letter": "T",
+      "key": "Tissue Culture",
+      "content": "\n       Growing mammalian cells in the laboratory in a tissue culture medium (in\n      vitro). For example, this allows researchers to determine the effects of\n      various chemicals on mammalian cells without experimenting directly on\n      live animals or man. Since a molecule of some toxic substances can harm a\n      single mammalian cell, even one part-per-billion of some impurities can\n      affect a tissue culture. Therefore, water used to make up tissue culture\n      media should be extremely pure.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Titer[](undefined)",
+      "content": "\n       A measured sample - the strength of a solution or the concentration of a\n      substance (as an antibody) in solution as determined by titration.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Titration",
+      "content": "\n       Volumetric analysis by means of the addition of definite amounts of a\n      test solution to a solution of a known amount of the substance analyzed.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "TNT (Tumor Necrosis Therapy)[](undefined)",
+      "content": "\n       Therapeutic agents that target dead and dying cells found primarily at\n      the core of the tumor.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Toe of Weld[](undefined)",
+      "content": "\n       The junction between the face of a weld and the base material.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Tolerance",
+      "content": "\n       Failure to mount an immune reaction on exposure to what would normally be\n      an antigenic substance.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Ton of Refrigeration",
+      "content": "\n       A unit used to indicate the size of a refrigeration unit. One ton of\n      refrigeration effect is equivalent to removing 12,000 Btu/hr of heat, or\n      melting one ton of ice in a 24-hour period.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Topical",
+      "content": "\n       A medication applied to the skin, an ointment. Usually a medicament\n      suspended in a carrier such as petrolatum or another oil based carrier.\n      Filtration at elevated temperatures is usually possible.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Topical Product",
+      "content": "\n       A pharmaceutical product meant to be applied to the skin or soft tissue\n      in the form of liquid, cream, or ointment, and therefore needs not be\n      aseptic. Sterile ophthalmic products throughout are manufactured\n      aseptically.\n      "
+    },
+    { "letter": "T", "key": "\n       " },
+    {
+      "letter": "T",
+      "key": "Total Bacteria Count",
+      "content": "\n       An estimation of the total number of bacteria in a sample based usually\n      on Standard Methods procedures for collecting, incubating, and counting\n      colony-forming units (cfu). \n\n      Total Dissolved Solids (TDS) The term used to describe inorganic ions\n        in the water. Usually measured by electrical conductance of the water\n        corrected to 25°C, and expressed as ppm (parts per million).\n\n      "
+    },
+    {
+      "letter": "T",
+      "key": "Total Heat (TH)[](undefined)",
+      "content": "\n       The sum of sensible heat and latent heat.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Total Ionized Solids",
+      "content": "\n       Concentration of dissolved ions in solution expressed in concentration\n      units of Sodium Chloride (NaCl). It determines the operating life of ion\n      exchange resins and is calculated from measurements of Specific\n      Resistance.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Total Organic Carbon (TOC)[](undefined)",
+      "content": "\n       A measure of the level of organic impurities in water by their carbon\n      content that determines the operating life of activated carbon beds. This\n      is one of the parameters used to determine the purity of Semiconductor\n      Grade water. Feed water will have TOC measured in ppm (parts per million),\n      and ultrapure water (UPW) will have TOC measured in ppb (parts per\n      billion).\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Total Solids[](undefined)",
+      "content": "\n       Total solids in water include both dissolved and suspended solids.\n      Determined by weighing sample before and after evaporation.\n       "
+    },
+    { "letter": "T", "key": "Toxic", "content": "\n       Pertaining to a substance that is harmful.\n       " },
+    {
+      "letter": "T",
+      "key": "Toxicology",
+      "content": "\n       A science that deals with poisons, their effects, and the problems\n      involved.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Toxin",
+      "content": "\n       A substance produced by microorganisms that can inhibit cell growth in\n      tissue culture and may cause temperature rise in animals.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Toxin",
+      "content": "\n       Any poisonous agent, especially a poisonous substance produced by one\n      living organism that is poisonous to other organisms. Toxins are usually\n      very unstable, notably toxic when introduced into the tissues, and\n      typically capable of inducing antibody formation.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Toxoid",
+      "content": "\n       An antigenic toxin. Example is tetanus toxoid that is a bacterial\n      vaccine.  "
+    },
+    {
+      "letter": "T",
+      "key": "TPA (Tissue Plasminogen Activator)",
+      "content": "\n       A recombinant drug used in the management of heart attacks to prevent\n      clotting. Produced by Genentech and one of the first successful\n      recombinant DNA drugs to be commercialized.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Trace Analysis",
+      "content": "\n       Analyzing constituents present in ppm and ppb concentrations. Trace\n      analysis requires extremely pure reagents, made with ultrapure Type I\n      reagent grade water.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Traceability",
+      "content": "\n       A prerequisite for trustworthy records, apart from data security.\n      Traceability is the part of the laboratory data system audit trail that\n      holds the evidence of who did what to a record and when.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Tracer",
+      "content": "\n       A radioactively labeled nucleic acid component included in a\n      reassociation reaction in amounts too small to influence the progress of\n      reaction.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Transcription[](undefined)",
+      "content": "\n       The process by which the genetic information encoded in the gene,\n      represented as a linear sequence of deoxyribonucleotides (DNA), is copied\n      into an exactly complementary sequence of ribonucleotides known as mRNA\n      (messenger RNA).\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Transduction",
+      "content": "\n       The transfer of genetic material from one cell to another by means of a\n      viral vector (for bacteria, the vector is Bacteriophage).\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Transfection",
+      "content": "\n       The acquisition of new genetic markers by addition of viral DNA to cells.  "
+    },
+    {
+      "letter": "T",
+      "key": "Transfer Panel",
+      "content": "\n       A panel to which process and utilities are piped, allowing cross\n      connections between different use points. A jumper spool is used to\n      connect the desired process/utility users and mechanically preclude\n      erroneous connections to other lines.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Transfer RNA (tRNA)[](undefined)",
+      "content": "\n       A class of RNA having structures with triplet nucleotide sequences that\n      are complementary to the triplet nucleotide coding sequences of mRNA. The\n      role of tRNAs in protein synthesis is to bond with amino acids and\n      transfer them to the ribosomes, where proteins are assembled according to\n      the genetic code carried by mRNA.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Transfer Systems",
+      "content": "\n       Equipment allowing the introduction and removal of material, toxic and/or\n      sterile, with continuous protection to both operator and product.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Transformation",
+      "content": "\n       A process by which the genetic material carried by an individual cell is\n      altered by incorporation of exogenous DNA into its genome.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Transgenics",
+      "content": "\n       The alteration of a plant or animal's DNA such that it contains a gene\n      from another organism. There are two types of cells in animal and plants,\n      germ line cells (the sperm and egg in animals, pollen and ovule in plants)\n      and somatic cells (all other cells). Transgenic animals have alterations\n      in their germ line DNA so the alterations are passed on to the offspring.\n      That is done to produce therapeutics, to study disease, and to improve\n      farm animals. Transgenic plants have been created for increased resistance\n      to disease and insects as well as to make biopharmaceuticals.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Translation",
+      "content": "\n       The process in which the genetic code carried by mRNA directs the\n      synthesis of proteins from amino acids.  "
+    },
+    {
+      "letter": "T",
+      "key": "Treatment Investigational New Drug",
+      "content": "\n       An Investigational New Drug that makes a promising new drug available to\n      desperately ill patients as early in the drug development process as\n      available. FDA permits the drug to be used if there is preliminary\n      evidence of efficacy and it treats a serious or life-threatening disease,\n      or if there is not comparable therapy available.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Trihalomethanes[](undefined)",
+      "content": "\n       Compounds present in the feed water that are formed by the reaction of\n      Chlorine and the organic material in the water. Activated carbon and\n      degasification can reduce THMs.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Tube Size",
+      "content": "\n       Tube is sized by its nominal outside diameter. For bioprocessing\n      equipment, tube does not include pipe.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Tumor",
+      "content": "\n       An abnormal growth of cells. Also defined as a circumscribed growth, not\n      inflammatory in character, arising from preexisting tissue, but\n      independent of the normal rate or laws of growth of such tissue, and\n      subserving no physiological function.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Tumor Pathogenesis",
+      "content": "\n       Morphological and physiological changes associated with tumor growth.  "
+    },
+    {
+      "letter": "T",
+      "key": "Tumor-Suppressor Genes",
+      "content": "\n       Genes that normally restrain cell growth but, when missing or inactivated\n      by mutation, allow cells to grow uncontrolled.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Turbidity",
+      "content": "\n       A suspension of fine particles that obscures light rays but requires many\n      days for sedimentation because of small particle size.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Turnover",
+      "content": "\n       Also known as \"hand over\" in the U.K. It is a formal transfer\n      of custody for a system or unit to another group, department, or operating\n      company.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Turnover Package (TOP)",
+      "content": "\n       A collection of pertinent design, construction, vendor, and operational\n      documentation. This collection of documentation is used for the\n      qualification and process validation activity, as well as reference and\n      single source information for the life of any particular system, process,\n      or piece of equipment.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Two-Bed Deionizer",
+      "content": "\n       Separate beds or layers of cation and anion exchange resins. Results in\n      lower purity than mixed-bed deionization, but provides higher capacity in\n      terms of throughput.\n       "
+    },
+    {
+      "letter": "T",
+      "key": "Tyrosine (Tyr)",
+      "content": "\n       A Phenolic alpha amino acid; a precursor of the hormones epinephrine,\n      norepinephrine, thyroxine, and triiodothyronine, and of the black pigment\n      melanin. \n    \n      \n    "
+    }
+  ],
+  "U": [
+    { "letter": "U", "key": "\n" },
+    {
+      "letter": "U",
+      "key": "Ultra Low Penetration Air filters (ULPA)",
+      "content": "\n       Extended media dry filters in a rigid frame that have a minimum\n      particle-collection efficiency of 99.999% for particles greater than or\n      equal to 0.12µm in size. Most commonly used in microelectronics, few\n      uses in pharmaceuticals. \n\n\n"
+    },
+    {
+      "letter": "U",
+      "key": "Ultracentrifugation",
+      "content": "\n       The separation of macromolecules on the basis of their density and shape\n      using the gravitational field generated in a high-speed centrifuge. It is\n      used in rDNA work for the separation of RNA and DNA, and for purification\n      of plasmids.  "
+    },
+    {
+      "letter": "U",
+      "key": "Ultrafiltration",
+      "content": "\n       Molecular sieves; membranes with pores small enough to remove large\n      molecules. Rated in terms of nominal molecular weight cutoff. A 10,000\n      Dalton (molecular weight) UF membrane, for example, will remove bacterial\n      pyrogens that are typically in the range of 20,000 Daltons.  "
+    },
+    {
+      "letter": "U",
+      "key": "Ultrafine Particle",
+      "content": "\n       Particle with an equivalent diameter less than 0,1µm. ISO 14644-1  "
+    },
+    {
+      "letter": "U",
+      "key": "Ultrapure Water",
+      "content": "\n       Water with a specific resistance higher than 1 megohm-cm. In the\n      laboratory, it usually refers to Type I reagent grade water. Anything in\n      laboratory water that is not H2O is an impurity. Although chemically pure\n      water is not attainable, ultrapure water systems are now capable of\n      reducing impurities down to the limits of detection.  "
+    },
+    {
+      "letter": "U",
+      "key": "Ultraviolet Oxidation",
+      "content": "\n       Ultraviolet radiation is employed in water purification for the\n      photochemical oxidation of organic impurities resulting in HPLC grade\n      water with organic impurity levels below 0.0005 absorbance units.  "
+    },
+    {
+      "letter": "U",
+      "key": "Ultraviolet Radiation",
+      "content": "\n       Light in the wavelength region 200-300 nm, used to detect RNA or DNA that\n      has the fluorescent dye, ethidium bromide, bound to it.  "
+    },
+    {
+      "letter": "U",
+      "key": "Ultraviolet Sterilizer",
+      "content": "\n       Ultraviolet lamps used to kill microorganisms in water.  "
+    },
+    {
+      "letter": "U",
+      "key": "Ultraviolet TOC Reduction",
+      "content": "\n       An ultraviolet source, which partially oxidizes organic compounds to\n      ionic species that can be removed. It relies on 185 nm (nanometer)\n      radiation from \"ozone producing\" mercury lamps (along with 254nm\n      germicidal radiation). Generally has a longer contact time than\n      sterilization alone.  "
+    },
+    { "letter": "U", "key": "Unicellular", "content": "\n       Composed of only a single cell.  " },
+    {
+      "letter": "U",
+      "key": "Unidirectional Airflow",
+      "content": "\n       Previously referred as \"laminar\" airflow, is the \"rectified\n      airflow through the entire cross section of a clean zone with a steady\n      velocity and approximately parallel streamlines. This type of airflow\n      results in a directed transport of particles from the clean zone\".\n      ISO 14644-4.  "
+    },
+    {
+      "letter": "U",
+      "key": "Uniform Building Code (UBC)",
+      "content": "\n       The most widely adopted model building code in the United States is a\n      performance based document meeting the needs of government units charged\n      with the enforcement of building regulations.  "
+    },
+    {
+      "letter": "U",
+      "key": "Uniform Fire Code™",
+      "content": "\n       The premier model fire code in the United States sets forth provisions\n      necessary for fire prevention and fire protection. Published by the\n      International Fire Code Institute (IFCI) and endorsed by the Western Fire\n      Chiefs Association, the International Association of Fire Chiefs, and the\n      International Conference of Building Officials (ICBO), it contains code\n      provisions compatible with the Uniform Building Code, and standards\n      referenced from the code provisions.  "
+    },
+    {
+      "letter": "U",
+      "key": "Uniform Mechanical Code™",
+      "content": "\n       A document that provides a complete set of requirements for the design,\n      construction, installation, and maintenance of heating, ventilating,\n      cooling and refrigeration systems; incinerators and other heat-producing\n      appliances.  "
+    },
+    {
+      "letter": "U",
+      "key": "Uniform Zoning Code™",
+      "content": "\n       A code dedicated to intelligent community development and to the benefit\n      of the public welfare by providing a means of promoting uniformity in\n      zoning laws and enforcement. \n      Unit Dose Defines an SVP that must be administered in one dose.\n        Unused contents must be discarded.\n      "
+    },
+    { "letter": "U", "key": "United States Pharmacopeia (U.S.P.)", "content": "\n        " },
+    {
+      "letter": "U",
+      "key": "Universal Precautions",
+      "content": "\n       Precautions taken when handling, storing, transporting, or shipping items\n      or specimens containing, or contaminated with human blood and body fluids:\n      all such materials are treated as infectious.  "
+    },
+    {
+      "letter": "U",
+      "key": "Unsaturated Fatty Acid",
+      "content": "\n       A fatty acid containing one or more double bonds.  \n       "
+    },
+    { "letter": "U", "key": "\n       " },
+    {
+      "letter": "U",
+      "key": "Unstable (Reactive) Material",
+      "content": "\n       A material other than an explosive, which in the pure state or as\n      commercially produced will vigorously polymerize, decompose, condense or\n      become self-reactive and undergo other violent chemical changes, including\n      explosion, when exposed to heat, friction or shock, or in the absence of\n      an inhibitor or in the presence of contaminants or in contact with\n      noncompatible materials. Unstable, reactive materials are subdivided as\n      follows: \n    \n\n    \n      1. Class 4 - Materials that in themselves are readily capable of\n        detonation or of explosive decomposition or explosive reaction at normal\n        temperatures and pressures. This class includes materials that are\n        sensitive to mechanical or localized thermal shock at normal\n        temperatures and pressures.\n\n      2. Class 3 - Materials that in themselves, are capable of detonation\n        or of explosive decomposition or explosive reaction but which require a\n        strong initiating source or which must be heated under confinement\n        before initiation. This class includes materials that are sensitive to\n        thermal or mechanical shock at elevated temperatures and pressures.\n\n      3. Class 2 - Materials that in themselves are normally unstable and\n        readily undergo violent chemical change but do not detonate. This class\n        includes materials which can undergo chemical change with rapid release\n        of energy at normal temperatures and pressures and which can undergo\n        violent chemical change at elevated temperatures and pressures.\n\n      4. Class 1 - Materials that in themselves are normally stable but\n        which can become unstable at elevated temperatures and pressures.\n    \n\n    \n      "
+    },
+    {
+      "letter": "U",
+      "key": "Upward Compatibility",
+      "content": "\n       Refers to software that runs not only on the computer for which it was\n      designed, but also on newer and more powerful models. In the context of\n      CFR 21 Part 11, compatibility plays an important role in ensuring that\n      legacy data can be moved (copied) accurately and completely to a new\n      system. Without it, legacy systems would have to be maintained as long as\n      the records contained in them are kept. (also see:  "
+    },
+    {
+      "letter": "U",
+      "key": "Uracil",
+      "content": "\n       A pyrimidine base important as a component of ribonucleic acid (RNA).\n      Uracil is capable of forming a base pair with adenine.  "
+    },
+    {
+      "letter": "U",
+      "key": "User Interface",
+      "content": "\n       Dials, knobs, operating system commands, graphical display formats, and\n      other devices provided by a computer or a program to allow users to\n      communicate and use the computer or program. A Graphical User Interface\n      (GUI) provides its user with a \"picture oriented\" way to\n      interact with technology.  "
+    },
+    {
+      "letter": "U",
+      "key": "U.S.P. (United States Pharmacopeia)",
+      "content": "\n       A compendium of testing and purity criteria for pharmaceuticals,\n      ancillaries, and raw materials. (also see: National Formulary (NF))  "
+    },
+    {
+      "letter": "U",
+      "key": "Utility Systems",
+      "content": "\n       Facility wide systems not tailored to a specific process and that do not\n      have contact with the drug substance or potential drug substance. \n    \n      \n"
+    }
+  ],
+  "W": [
+    { "letter": "W", "key": "\n    \n    " },
+    {
+      "letter": "W",
+      "key": "WAN(Wide Area Network)",
+      "content": "\n     Network with computers far apart, connected by telephone lines or radio\n    waves.LAN (Local Area Network))\n     \n    "
+    },
+    {
+      "letter": "W",
+      "key": "Warning Letter",
+      "content": "\n     The most serious FDA postaudit (after inspection) letter notifying a\n    manufacturer of adverse finding and giving it 15 days to reply.  \n\n\n"
+    },
+    {
+      "letter": "W",
+      "key": "Water Hammer",
+      "content": "\n     A tremendous force produced by rapid interruption of linear flow of a\n    non-compressible fluid. Most commonly occurs when fast acting valves are\n    closed in a high flow liquid system.\n     \n    "
+    },
+    {
+      "letter": "W",
+      "key": "Water Treatment",
+      "content": "\n     Water treatment, also referred to as water conditioning, can consist of\n    adding or removing chemicals to change the properties of water. In water\n    softening, for example, sodium ions are substituted for metallic ions that\n    cause \"hardness\" thus reducing the scale-forming tendencies of\n    water. Water purification on the other hand, always consists of removing\n    undesirable impurities.\n     \n    "
+    },
+    {
+      "letter": "W",
+      "key": "Waviness",
+      "content": "\n     The more widely spaced component of surface texture. Unless otherwise\n    noted, waviness includes all irregularities whose spacing is greater than\n    the roughness sampling length. Waviness may result from such factors as\n    machine or work deflection, vibration, chatter, heat treatment or warping\n    strains. Roughness may be considered as superimposed on a \"wavy\"\n    surface.\n     \n    "
+    },
+    {
+      "letter": "W",
+      "key": "Western Blot",
+      "content": "\n     A procedure in which a mixture of proteins is separated on a polyacrylamide\n    gel and then transferred to a nylon membrane. The membrane may then be\n    treated with reagents such as specific antibodies to locate a protein of\n    interest.\n     \n    "
+    },
+    {
+      "letter": "W",
+      "key": "Wetted Surface",
+      "content": "\n     The surface(s) of any valve or component that will be exposed to a fluid\n    (liquid or gas) when in service.\n     \n    "
+    },
+    {
+      "letter": "W",
+      "key": "WFI (Water For injection), U.S.P.",
+      "content": "\n     WFI is water purified by distillation or by reverse osmosis, it contains no\n    added substance. WFI meets the purity requirements under Purified Water.\n    Although not intended to be sterile, it meets a test for a limit of\n    bacterial endotoxin. It must be produced, stored, and distributed under\n    Sterile Water for Injection.\n     "
+    },
+    { "letter": "W", "key": "\n    " },
+    {
+      "letter": "W",
+      "key": "White Blood Cell",
+      "content": "\n     A blood cell containing no respiratory pigment. In vertebrates it may be a\n    polymorphonuclear leukocyte, a lymphocyte or a monocyte. \n     \n    "
+    },
+    {
+      "letter": "W",
+      "key": "Workstation",
+      "content": "\n     An open or enclosed work surface, usually with direct air supply.\n     \n    "
+    },
+    {
+      "letter": "W",
+      "key": "Worst Case",
+      "content": "\n     The highest or lowest value of a given control parameter actually evaluated\n    in a validation exercise.     \n    \n    "
+    }
+  ]
+}
