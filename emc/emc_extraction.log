@@ -1,0 +1,9 @@
+2024-11-18 16:55:04,454 - INFO - Processing drug: paracetamol
+2024-11-18 16:56:10,936 - ERROR - Error searching for drug paracetamol: 404 Client Error: Not Found for url: https://www.medicines.org.uk/emc/search-results?q=paracetamol&searchtype=medicines
+2024-11-18 16:56:10,937 - WARNING - No results found for paracetamol
+2024-11-18 16:56:10,937 - INFO - Processing drug: ibuprofen
+2024-11-18 16:56:11,665 - ERROR - Error searching for drug ibuprofen: 404 Client Error: Not Found for url: https://www.medicines.org.uk/emc/search-results?q=ibuprofen&searchtype=medicines
+2024-11-18 16:56:11,666 - WARNING - No results found for ibuprofen
+2024-11-18 16:56:11,666 - INFO - Processing drug: amoxicillin
+2024-11-18 16:56:12,001 - ERROR - Error searching for drug amoxicillin: 404 Client Error: Not Found for url: https://www.medicines.org.uk/emc/search-results?q=amoxicillin&searchtype=medicines
+2024-11-18 16:56:12,003 - WARNING - No results found for amoxicillin
