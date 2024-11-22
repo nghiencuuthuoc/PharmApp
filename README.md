@@ -133,6 +133,6 @@ Python312\Scripts\activate  # Windows
 
 ## License
 
-Under the GPL-2.0-1. See [LICENSE](LICENSE).
+Under the GPL-2.0-1. See [LICENSE](GPL-2.0-1-ov-file).
 
 
