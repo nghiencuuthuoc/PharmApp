@@ -1,0 +1,4 @@
+django
+bs4
+XlsxWriter
+requests

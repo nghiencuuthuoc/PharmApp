@@ -1,0 +1,22 @@
+PubMedExtractor - Công cụ lấy tài liệu y khoa trên PubMed
+Phát triển bởi Nghiên Cứu Thuốc | Copyright 2024
+Tải github nguồn: https://github.com/nghiencuuthuoc/PharmAppPubMedExtractor
+Tải google drive: https://drive.google.com/file/d/1xLaGErOIEB4y1Xrg2c9KtlmOnrODr8-K/view?usp=drive_link
+Hoặc tải zalo
+Video hướng dẫn: https://www.youtube.com/watch?v=WPSCYk5cVL8
+Lưu lại dạng file excel
+Yêu cài máy cài python
+và cài các package trong file "install_package_require.bat"
+
+Tạo shortcut desktop file runserver.bat
+Cần chạy lệnh: rename shortcut pme, copy vào windows folder
+Chạy lên windows + R
+Gõ pme
+Chờ load dữ liệu
+Đã xong
+Muốn tải file pdf lấy mã số DOI hoặc Pubmed number
+Gõ tìm trên sci-hub
+Cảm ơn đã theo dõi.
+Nếu bạn thấy hữu ích mời tải về sử dụng
+Tks
+

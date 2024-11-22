@@ -1,0 +1,174 @@
+<html>
+<head>
+    <title>PharmApp | PubMed Extractor</title>
+</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+    
+</script>
+<style>
+
+    body {
+        background-size: 40px 40px;
+        background-image:
+          linear-gradient(to right, rgba(236, 236, 236, 1) 1px, transparent 1px),
+          linear-gradient(to bottom, rgba(236, 236, 236, 1) 1px, transparent 1px);
+    }
+
+    th { 
+        background: #3498db; 
+        color: white; 
+        font-weight: bold; 
+        }
+    
+    td, th { 
+        padding: 10px;
+        border: 1px solid #eee; 
+        font-size: 18px;
+    }
+
+    table{
+        border: 1px solid black;
+        padding: 14px 14px;
+        border-radius: 15px;
+        background: #eee;
+        
+    }
+
+    .center-screen{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        min-height: 100vh;
+    }
+
+    .btn{
+        padding: 12px 12px;
+        font-size: 18px;
+        color:white;
+        background:#3498db;
+        width:100%;
+        border-radius: 25px;
+        border-color: #eee;
+    }
+    .btn:hover{
+        background:black;
+        cursor:pointer;
+    }
+    
+    .tags {
+        list-style: none;
+        margin: 0;
+        overflow: hidden; 
+        padding: 0;
+        font: 13px/1.5 'PT Sans', serif;
+        margin: 5px;
+      }
+      
+      .tags li {
+        float: left; 
+      }
+      
+      .tag {
+        background: #eee;
+        border-radius: 3px 0 0 3px;
+        color: #999;
+        display: inline-block;
+        height: 26px;
+        line-height: 26px;
+        padding: 0 20px 0 23px;
+        position: relative;
+        margin: 0 10px 10px 0;
+        text-decoration: none;
+        -webkit-transition: color 0.2s;
+      }
+      
+      .tag::before {
+        background: #fff;
+        border-radius: 10px;
+        box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+        content: '';
+        height: 6px;
+        left: 10px;
+        position: absolute;
+        width: 6px;
+        top: 10px;
+      }
+      
+      .tag::after {
+        background: #fff;
+        border-bottom: 13px solid transparent;
+        border-left: 10px solid #eee;
+        border-top: 13px solid transparent;
+        content: '';
+        position: absolute;
+        right: 0;
+        top: 0;
+      }
+      
+      .tag:hover {
+        background-color: #3498db;
+        color: white;
+      }
+      
+      .tag:hover::after {
+         border-left-color: #3498db; 
+      }
+
+
+</style>
+<body>
+
+<br><br><font face="verdana,arial">
+    <form method="post" action="parse">
+        {% csrf_token %}
+        <div class="center-screen">
+        <table cellspacing="5" cellpadding="5">
+            <th colspan="3"><b>PharmApp | PubMed Extractor</b></th>
+            <tr>
+                <td>Enter Your Search Term</td>
+                <td>:</td>
+                <td><input type="text" name="wikilink" style="width:100%;font-size:18px;"></td>
+            </tr>
+            <tr>
+                <td>Extract From </td>
+                <td>
+                    <select name="nos" style="font-size:18px;">
+                        <option value="1">1</option>
+                        <option value="2" selected>2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="14">14</option>
+                        <option value="20">20</option>
+                        <option value="25">25</option>
+						<option value="25">30</option>
+						<option value="25">40</option>
+						<option value="25">50</option>
+						<option value="25">100</option>
+                    </select>
+                </td>
+                <td>Page(s)</td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    <input type="submit" value="Extract" class="btn">
+                </td>
+            </tr>
+        </table></div>
+    
+    </form>
+<!--<a href='test'>test</a>-->
+</font>
+<ul class="tags">
+    <li><a href="http://www.nghiencuuthuoc.com/" class="tag"> Copyright 2024: NGHIÊN CỨU THUỐC</a></li>
+  </ul>
+</body>
+</html>
