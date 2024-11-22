@@ -18,27 +18,36 @@ LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsAapp: +8488
 
 Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc 
 
-## [PharmApp on Web wwww.nghiencuuthuoc.com](http://www.nghiencuuthuoc.com/search/label/PharmApp)
 
-## [Application for Pharmaceuticals on wwww.nghiencuuthuoc.com](http://www.nghiencuuthuoc.com/search/label/Phan-mem)
 
-## scripts
+## .\scripts
+### 1. Run Command line: Run file ```PharmApp_CLI.bat```
+### 2. Run Web: Run file ```PharmApp_Web.bat```
+### 3. How create shoortcut:
+* Send to file to desktop
+* edit file to short name (Windows Shortcut)
+* Copy to ``` C:\Windows\ ```
+* Run with keyboard ``` Windows + R ```, enter ``` Windows Shortcut``` to run
+* Top file run here:
 
-| Windows Shortcut | Description |
-| ----------- | ----------- |
-| iigsf | iigs_input_file.py |
-| iigs1 |  iigs.py |
-| iigt | scripts\test.bat |
-| iigti | notebook\test.ipynb |
-| iigva | iig_view_all.py |
-| iigm | iig_view_multi_pandasgui.py |
-| iig2f | iig2formula.py |
-| iigdt |  iig_daily.txt |
-| iigf | iig_input_file_name.bat |
-| iignt | view_iig_dt.py | 
-| iigni | view_col_inactive.py |
-| iignn | view_iig_ndc.py |
-| iign | view_iig_pdg.py |
+| Description | Windows Shortcut | File |
+| ----------- | ----------- | ----------- |
+| 1. PharmApp Web | form1 | iig_iigs_to_formula_1_st |
+| 2. Retrieve SageRX with Drug Name in File | iigsf | iigs_input_file |
+| 3. Retrieve SageRX with Name | iigs1 |  iigs |
+| 4. Retrieve SageRX View PandasGui | iigs | iig_sagerx |
+| 5. Run Test | iigt | scripts\test.bat |
+| 6. Run Notebook | iigti | notebook\test.ipynb |
+| 7. Retrieve IIG from DailyMed and SageRX | iigva | iig_view_all |
+| 8. Retrieve IIG DailyMed Multi Name | iigm | iig_view_multi_pandasgui |
+| 9. IIG DailyMed to Formulation | iig2f | iig2formula |
+| 10. Retrieve IIG DailyMed with Drug Name in iig_daily.txt  | iigdt |  iig_daily.txt |
+| 11. Retrieve IIG DailyMed  with Drug Name in File | iigf | iig_input_file_name.bat |
+| 12. View IIG DailyMed View Dtale | iignt | view_iig_dt | 
+| 13. View IIG DailyMed Inactive Column | iigni | view_col_inactive |
+| 14. View IIG DailyMed and Web NDC | iignn | view_iig_ndc |
+| 15. View View PandasGui | iign | view_iig_pdg |
+
 
 ## releases
 [Download release build run portable](https://github.com/nghiencuuthuoc/PharmApp/releases)
@@ -46,6 +55,10 @@ Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc
 ## Notebook
 - [PharmApp Notebook](PharmApp.ipynb)
 - [See more notebook](https://github.com/nghiencuuthuoc/PharmApp/notebook/)
+
+## [Website](http://www.nghiencuuthuoc.com/search/label/PharmApp)
+
+## [More Apps](http://www.nghiencuuthuoc.com/search/label/Phan-mem)
 
 ## Video
 [View more videos on YouTube](https://www.youtube.com/@nghiencuuthuoc)
