@@ -22,13 +22,19 @@ Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc
 
 ## .\scripts
 ### 1. Run Command line: Run file ```PharmApp_CLI.bat```
+
+![](./images/pharmapp_cli.jpg)
+
 ### 2. Run Web: Run file ```PharmApp_Web.bat```
+
+![](./images/pharmapp_web.jpg)
+
 ### 3. How create shoortcut:
 * Send to file to desktop
 * edit file to short name (Windows Shortcut)
 * Copy to ``` C:\Windows\ ```
 * Run with keyboard ``` Windows + R ```, enter ``` Windows Shortcut``` to run
-* Top file run here:
+* Top file run ``` python .\scripts\file_name.py ```  here:
 
 | Description | Windows Shortcut | File |
 | ----------- | ----------- | ----------- |
