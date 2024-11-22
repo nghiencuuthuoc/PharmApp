@@ -18,9 +18,26 @@ LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsAapp: +8488
 
 Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc 
 
+## Installation
 
+You can install for `PharmApp` using use pip:
 
-## .\scripts
+```bash
+git clone https://github.com/nghiencuuthuoc/PharmApp
+cd install
+pip install -r requirements.txt
+```
+
+#### Setup dev environment conda
+
+```shell
+conda env create -n pharmapp python==3.12
+git clone https://github.com/nghiencuuthuoc/PharmApp
+cd install
+pip install -r requirements.txt
+```
+
+## How Use
 ### 1. Run Command line: Run file ```PharmApp_CLI.bat```
 
 ![](./images/pharmapp_cli.jpg)
@@ -29,12 +46,14 @@ Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc
 
 ![](./images/pharmapp_web.jpg)
 
-### 3. How create shoortcut:
+### 3. Run create shoortcut:
 * Send to file to desktop
 * edit file to short name (Windows Shortcut)
 * Copy to ``` C:\Windows\ ```
 * Run with keyboard ``` Windows + R ```, enter ``` Windows Shortcut``` to run
+* Run code in ```.\scripts\```
 * Top file run ``` python .\scripts\file_name.py ```  here:
+
 
 | Description | Windows Shortcut | File |
 | ----------- | ----------- | ----------- |
@@ -53,6 +72,8 @@ Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc
 | 13. View IIG DailyMed Inactive Column | iigni | view_col_inactive |
 | 14. View IIG DailyMed and Web NDC | iignn | view_iig_ndc |
 | 15. View View PandasGui | iign | view_iig_pdg |
+
+### 4. Run Jupyter notebook: run file ```PharmApp_Notebook.bat```
 
 
 ## releases
