@@ -18,6 +18,18 @@ LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsAapp: +8488
 
 Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc 
 
+
+**PharmApp** are tools for research and development pharmaceuticals
+
+
+## Table of Contents
+- [Installation](#installation)
+- [How Use](#How-Use)
+- [Releases](#Releases)
+- [Notebook](#Notebook)
+- [Video](#Video)
+
+
 ## Installation
 
 You can install for `PharmApp` using use pip:
@@ -35,6 +47,13 @@ conda env create -n pharmapp python==3.12
 git clone https://github.com/nghiencuuthuoc/PharmApp
 cd install
 pip install -r requirements.txt
+```
+It's recommended to create a virtual environment:
+
+```bash
+python3 -m venv Python312
+source Python312/bin/activate  # Mac/Linux
+Python312\Scripts\activate  # Windows
 ```
 
 ## How Use
@@ -76,12 +95,33 @@ pip install -r requirements.txt
 ### 4. Run Jupyter notebook: run file ```PharmApp_Notebook.bat```
 
 
-## releases
+## Releases
 [Download release build run portable](https://github.com/nghiencuuthuoc/PharmApp/releases)
 > ***A lot of file can't upload, will upload in release
 ## Notebook
-- [PharmApp Notebook](PharmApp.ipynb)
-- [See more notebook](https://github.com/nghiencuuthuoc/PharmApp/notebook/)
+- [Drugs@FDA_Data_Files](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/Drugs%40FDA_Data_Files.ipynb)
+- [Inactive Ingredients Database](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/Inactive%20Ingredients%20Database.ipynb)
+- [MongoDB_PyMongo](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/MongoDB_PyMongo.ipynb)
+- [Monoclonal_antibodies_Adalimumab](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/Monoclonal_antibodies_Adalimumab.ipynb)
+- [Pharmacokinetics](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/Pharmacokinetics.ipynb)
+- [Physicochemical_Properties_Drug](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/Physicochemical_Properties_Drug.ipynb)
+- [PubChem_DrugBank_ChEMBL](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/PubChem_DrugBank_ChEMBL.ipynb)
+- [View table sagerx](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/View%20table%20sagerx.ipynb)
+- [drug_name_len](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/drug_name_len.ipynb)
+- [extract_database_sagerx_server](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/extract_database_sagerx_server.ipynb)
+- [hasaki_crawler](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/hasaki_crawler.ipynb)
+- [hsk_80sp](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/hsk_80sp.ipynb)
+- [hsk_data_v2_20241016](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/hsk_data_v2_20241016.ipynb)
+- [hsk_full](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/hsk_full.ipynb)
+- [iig2formula](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/iig2formula.ipynb)
+- [iig_iigs_to_formula](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/iig_iigs_to_formula.ipynb)
+- [iig_input_file_name](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/iig_input_file_name.ipynb)
+- [iigs_multi](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/iigs_multi.ipynb)
+- [ndc_analytic_data](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/ndc_analytic_data.ipynb)
+- [pharmappiig018dev](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/pharmappiig018dev.ipynb)
+- [products_to_inactive_ingredients](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/products_to_inactive_ingredients.ipynb)
+- [pyfiglet_PharmApp](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/pyfiglet_PharmApp.ipynb)
+- [rdkit_2024_quickstart](https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/rdkit_2024_quickstart.ipynb)
 
 ## [Website](http://www.nghiencuuthuoc.com/search/label/PharmApp)
 
@@ -89,3 +129,9 @@ pip install -r requirements.txt
 
 ## Video
 [View more videos on YouTube](https://www.youtube.com/@nghiencuuthuoc)
+
+## License
+
+Under the GPL-2.0-1. See [LICENSE](LICENSE).
+
+
