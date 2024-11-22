@@ -1,0 +1,4 @@
+MainDrug,NDC,Strength,Formulation,Inactive,UNII
+pegulicianine,82292-040,10 mg  in 1 mL," injection, powder, lyophilized, for solution",MANNITOL,3OWL53L36A
+pegulicianine,82292-040,10 mg  in 1 mL," injection, powder, lyophilized, for solution","SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE",593YOG76RN
+pegulicianine,82292-040,10 mg  in 1 mL," injection, powder, lyophilized, for solution","SODIUM PHOSPHATE, DIBASIC, HEPTAHYDRATE",70WT22SF4B

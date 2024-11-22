@@ -1,0 +1,1659 @@
+MainDrug,NDC,Strength,Formulation,Inactive,UNII
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",CARMINIC ACID,CID8Z8N95N
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 3,PN2ZH5LOQY
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",CARMINIC ACID,CID8Z8N95N
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 3,PN2ZH5LOQY
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2451,20 mg, tablet,"STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2451,20 mg, tablet,CROSPOVIDONE (120 .MU.M),68401960MK
+esomeprazole magnesium,0573-2451,20 mg, tablet,D&amp;C RED NO. 27,2LRS185U6K
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2451,20 mg, tablet,GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2451,20 mg, tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2451,20 mg, tablet,"HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2451,20 mg, tablet,MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2451,20 mg, tablet,METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICA,V8A1AW0880
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+esomeprazole magnesium,0573-2451,20 mg, tablet,PARAFFIN,I9O0E3H2ZE
+esomeprazole magnesium,0573-2451,20 mg, tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0573-2451,20 mg, tablet,POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2451,20 mg, tablet,SODIUM STEARYL FUMARATE,7CV7WJK4UI
+esomeprazole magnesium,0573-2451,20 mg, tablet,SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2451,20 mg, tablet,TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2451,20 mg, tablet,TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2451,20 mg, tablet,TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",CARMINIC ACID,CID8Z8N95N
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 3,PN2ZH5LOQY
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2451,20 mg, tablet,"STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2451,20 mg, tablet,CROSPOVIDONE (120 .MU.M),68401960MK
+esomeprazole magnesium,0573-2451,20 mg, tablet,D&amp;C RED NO. 27,2LRS185U6K
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2451,20 mg, tablet,GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2451,20 mg, tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2451,20 mg, tablet,"HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2451,20 mg, tablet,MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2451,20 mg, tablet,METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICA,V8A1AW0880
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+esomeprazole magnesium,0573-2451,20 mg, tablet,PARAFFIN,I9O0E3H2ZE
+esomeprazole magnesium,0573-2451,20 mg, tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0573-2451,20 mg, tablet,POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2451,20 mg, tablet,SODIUM STEARYL FUMARATE,7CV7WJK4UI
+esomeprazole magnesium,0573-2451,20 mg, tablet,SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2451,20 mg, tablet,TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2451,20 mg, tablet,TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2451,20 mg, tablet,TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",CARMINIC ACID,CID8Z8N95N
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 3,PN2ZH5LOQY
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2451,20 mg, tablet,"STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2451,20 mg, tablet,CROSPOVIDONE (120 .MU.M),68401960MK
+esomeprazole magnesium,0573-2451,20 mg, tablet,D&amp;C RED NO. 27,2LRS185U6K
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2451,20 mg, tablet,GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2451,20 mg, tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2451,20 mg, tablet,"HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2451,20 mg, tablet,MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2451,20 mg, tablet,METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICA,V8A1AW0880
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+esomeprazole magnesium,0573-2451,20 mg, tablet,PARAFFIN,I9O0E3H2ZE
+esomeprazole magnesium,0573-2451,20 mg, tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0573-2451,20 mg, tablet,POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2451,20 mg, tablet,SODIUM STEARYL FUMARATE,7CV7WJK4UI
+esomeprazole magnesium,0573-2451,20 mg, tablet,SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2451,20 mg, tablet,TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2451,20 mg, tablet,TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2451,20 mg, tablet,TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,EDETATE DISODIUM,7FLD91C86K
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",CARMINIC ACID,CID8Z8N95N
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 3,PN2ZH5LOQY
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2451,20 mg, tablet,"STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2451,20 mg, tablet,CROSPOVIDONE (120 .MU.M),68401960MK
+esomeprazole magnesium,0573-2451,20 mg, tablet,D&amp;C RED NO. 27,2LRS185U6K
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2451,20 mg, tablet,GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2451,20 mg, tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2451,20 mg, tablet,"HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2451,20 mg, tablet,MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2451,20 mg, tablet,METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICA,V8A1AW0880
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+esomeprazole magnesium,0573-2451,20 mg, tablet,PARAFFIN,I9O0E3H2ZE
+esomeprazole magnesium,0573-2451,20 mg, tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0573-2451,20 mg, tablet,POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2451,20 mg, tablet,SODIUM STEARYL FUMARATE,7CV7WJK4UI
+esomeprazole magnesium,0573-2451,20 mg, tablet,SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2451,20 mg, tablet,TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2451,20 mg, tablet,TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2451,20 mg, tablet,TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,EDETATE DISODIUM,7FLD91C86K
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,SODIUM HYDROXIDE,55X04QC32I
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","STARCH, CORN",O8232NY3SJ
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",SUCROSE,C151H8M554
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",CARMINIC ACID,CID8Z8N95N
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 3,PN2ZH5LOQY
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2451,20 mg, tablet,"STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2451,20 mg, tablet,CROSPOVIDONE (120 .MU.M),68401960MK
+esomeprazole magnesium,0573-2451,20 mg, tablet,D&amp;C RED NO. 27,2LRS185U6K
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2451,20 mg, tablet,GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2451,20 mg, tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2451,20 mg, tablet,"HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2451,20 mg, tablet,MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2451,20 mg, tablet,METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICA,V8A1AW0880
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+esomeprazole magnesium,0573-2451,20 mg, tablet,PARAFFIN,I9O0E3H2ZE
+esomeprazole magnesium,0573-2451,20 mg, tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0573-2451,20 mg, tablet,POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2451,20 mg, tablet,SODIUM STEARYL FUMARATE,7CV7WJK4UI
+esomeprazole magnesium,0573-2451,20 mg, tablet,SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2451,20 mg, tablet,TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2451,20 mg, tablet,TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2451,20 mg, tablet,TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,EDETATE DISODIUM,7FLD91C86K
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,SODIUM HYDROXIDE,55X04QC32I
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","STARCH, CORN",O8232NY3SJ
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",SUCROSE,C151H8M554
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","STARCH, CORN",O8232NY3SJ
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",SUCROSE,C151H8M554
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",CARMINIC ACID,CID8Z8N95N
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 3,PN2ZH5LOQY
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2451,20 mg, tablet,"STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2451,20 mg, tablet,CROSPOVIDONE (120 .MU.M),68401960MK
+esomeprazole magnesium,0573-2451,20 mg, tablet,D&amp;C RED NO. 27,2LRS185U6K
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2451,20 mg, tablet,GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2451,20 mg, tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2451,20 mg, tablet,"HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2451,20 mg, tablet,MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2451,20 mg, tablet,METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICA,V8A1AW0880
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+esomeprazole magnesium,0573-2451,20 mg, tablet,PARAFFIN,I9O0E3H2ZE
+esomeprazole magnesium,0573-2451,20 mg, tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0573-2451,20 mg, tablet,POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2451,20 mg, tablet,SODIUM STEARYL FUMARATE,7CV7WJK4UI
+esomeprazole magnesium,0573-2451,20 mg, tablet,SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2451,20 mg, tablet,TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2451,20 mg, tablet,TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2451,20 mg, tablet,TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,EDETATE DISODIUM,7FLD91C86K
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,SODIUM HYDROXIDE,55X04QC32I
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","STARCH, CORN",O8232NY3SJ
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",SUCROSE,C151H8M554
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","STARCH, CORN",O8232NY3SJ
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",SUCROSE,C151H8M554
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",WATER,059QF0KO0R
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",CARMINIC ACID,CID8Z8N95N
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 3,PN2ZH5LOQY
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2451,20 mg, tablet,"STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2451,20 mg, tablet,CROSPOVIDONE (120 .MU.M),68401960MK
+esomeprazole magnesium,0573-2451,20 mg, tablet,D&amp;C RED NO. 27,2LRS185U6K
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2451,20 mg, tablet,GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2451,20 mg, tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2451,20 mg, tablet,"HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2451,20 mg, tablet,MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2451,20 mg, tablet,METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICA,V8A1AW0880
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+esomeprazole magnesium,0573-2451,20 mg, tablet,PARAFFIN,I9O0E3H2ZE
+esomeprazole magnesium,0573-2451,20 mg, tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0573-2451,20 mg, tablet,POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2451,20 mg, tablet,SODIUM STEARYL FUMARATE,7CV7WJK4UI
+esomeprazole magnesium,0573-2451,20 mg, tablet,SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2451,20 mg, tablet,TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2451,20 mg, tablet,TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2451,20 mg, tablet,TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,EDETATE DISODIUM,7FLD91C86K
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,SODIUM HYDROXIDE,55X04QC32I
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","STARCH, CORN",O8232NY3SJ
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",SUCROSE,C151H8M554
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","STARCH, CORN",O8232NY3SJ
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",SUCROSE,C151H8M554
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",WATER,059QF0KO0R
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE,RFW2ET671P
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",GELATIN,2G86QN327L
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",POLYETHYLENE GLYCOL,3WJQ0SDW1A
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",POVIDONE,FZ989GH94E
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+0186-5020,0186-5040,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE,RFW2ET671P
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",GELATIN,2G86QN327L
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POLYETHYLENE GLYCOL,3WJQ0SDW1A
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POVIDONE,FZ989GH94E
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",CARMINIC ACID,CID8Z8N95N
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 3,PN2ZH5LOQY
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2451,20 mg, tablet,"STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2451,20 mg, tablet,CROSPOVIDONE (120 .MU.M),68401960MK
+esomeprazole magnesium,0573-2451,20 mg, tablet,D&amp;C RED NO. 27,2LRS185U6K
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2451,20 mg, tablet,GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2451,20 mg, tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2451,20 mg, tablet,"HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2451,20 mg, tablet,MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2451,20 mg, tablet,METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICA,V8A1AW0880
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+esomeprazole magnesium,0573-2451,20 mg, tablet,PARAFFIN,I9O0E3H2ZE
+esomeprazole magnesium,0573-2451,20 mg, tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0573-2451,20 mg, tablet,POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2451,20 mg, tablet,SODIUM STEARYL FUMARATE,7CV7WJK4UI
+esomeprazole magnesium,0573-2451,20 mg, tablet,SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2451,20 mg, tablet,TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2451,20 mg, tablet,TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2451,20 mg, tablet,TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,EDETATE DISODIUM,7FLD91C86K
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,SODIUM HYDROXIDE,55X04QC32I
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","STARCH, CORN",O8232NY3SJ
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",SUCROSE,C151H8M554
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","STARCH, CORN",O8232NY3SJ
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",SUCROSE,C151H8M554
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",WATER,059QF0KO0R
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE,RFW2ET671P
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",GELATIN,2G86QN327L
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",POLYETHYLENE GLYCOL,3WJQ0SDW1A
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",POVIDONE,FZ989GH94E
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+0186-5020,0186-5040,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE,RFW2ET671P
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",GELATIN,2G86QN327L
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POLYETHYLENE GLYCOL,3WJQ0SDW1A
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POVIDONE,FZ989GH94E
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE,RFW2ET671P
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",GELATIN,2G86QN327L
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",POLYETHYLENE GLYCOL,3WJQ0SDW1A
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",POVIDONE,FZ989GH94E
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+0186-5020,0186-5040,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE,RFW2ET671P
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",GELATIN,2G86QN327L
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POLYETHYLENE GLYCOL,3WJQ0SDW1A
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POVIDONE,FZ989GH94E
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2450,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",CARMINIC ACID,CID8Z8N95N
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 3,PN2ZH5LOQY
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2452,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0573-2451,20 mg, tablet,"STARCH, CORN",O8232NY3SJ
+esomeprazole magnesium,0573-2451,20 mg, tablet,CROSPOVIDONE (120 .MU.M),68401960MK
+esomeprazole magnesium,0573-2451,20 mg, tablet,D&amp;C RED NO. 27,2LRS185U6K
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C BLUE NO. 2,L06K8R7DQK
+esomeprazole magnesium,0573-2451,20 mg, tablet,FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0573-2451,20 mg, tablet,GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0573-2451,20 mg, tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0573-2451,20 mg, tablet,"HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0573-2451,20 mg, tablet,MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0573-2451,20 mg, tablet,METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICA,V8A1AW0880
+esomeprazole magnesium,0573-2451,20 mg, tablet,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+esomeprazole magnesium,0573-2451,20 mg, tablet,PARAFFIN,I9O0E3H2ZE
+esomeprazole magnesium,0573-2451,20 mg, tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0573-2451,20 mg, tablet,POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0573-2451,20 mg, tablet,SODIUM STEARYL FUMARATE,7CV7WJK4UI
+esomeprazole magnesium,0573-2451,20 mg, tablet,SUCROSE,C151H8M554
+esomeprazole magnesium,0573-2451,20 mg, tablet,TALC,7SEV7J4R1U
+esomeprazole magnesium,0573-2451,20 mg, tablet,TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0573-2451,20 mg, tablet,TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5020,20 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4010,10 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4020,20 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",WATER,059QF0KO0R
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+esomeprazole magnesium,0186-4040,40 mg," granule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TALC,7SEV7J4R1U
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ALCOHOL,3K9958V90M
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+esomeprazole magnesium,0186-5040,40 mg," capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,EDETATE DISODIUM,7FLD91C86K
+esomeprazole sodium,0186-6040,40 mg  in 5 mL, injection,SODIUM HYDROXIDE,55X04QC32I
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","STARCH, CORN",O8232NY3SJ
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",SUCROSE,C151H8M554
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0573-2450,50090-1460,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","STARCH, CORN",O8232NY3SJ
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE RED,1K09F3G675
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","GELATIN, UNSPECIFIED",2G86QN327L
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release","HYPROMELLOSE, UNSPECIFIED",3NXW29V3WO
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1),74G4R6TH13
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",SUCROSE,C151H8M554
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0573-2450,50090-1492,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE (1600000 WAMW),RFW2ET671P
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",POTASSIUM SORBATE,1VPU26JZZ4
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",WATER,059QF0KO0R
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ANHYDROUS DEXTROSE,5SL0G7R0OK
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release","POVIDONE, UNSPECIFIED",FZ989GH94E
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ANHYDROUS CITRIC ACID,XF417D3PSL
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",FERRIC OXIDE YELLOW,EX438O2MRT
+0186-5040,61919-509,40 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE,RFW2ET671P
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",GELATIN,2G86QN327L
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",POLYETHYLENE GLYCOL,3WJQ0SDW1A
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",POVIDONE,FZ989GH94E
+0186-5020,54868-4635,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+0186-5020,0186-5040,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE,RFW2ET671P
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",GELATIN,2G86QN327L
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POLYETHYLENE GLYCOL,3WJQ0SDW1A
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POVIDONE,FZ989GH94E
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE,RFW2ET671P
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",GELATIN,2G86QN327L
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",POLYETHYLENE GLYCOL,3WJQ0SDW1A
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",POVIDONE,FZ989GH94E
+0186-5020,21695-091,20 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+0186-5020,0186-5040,20 mg,"esomeprazole magnesium capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",HYDROXYPROPYL CELLULOSE,RFW2ET671P
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",HYPROMELLOSES,3NXW29V3WO
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TALC,7SEV7J4R1U
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",GELATIN,2G86QN327L
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POLYETHYLENE GLYCOL,3WJQ0SDW1A
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",POVIDONE,FZ989GH94E
+0186-5020,0186-5040,40 mg,"esomeprazole magnesium capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",ESOMEPRAZOLE MAGNESIUM,R6DXU4WAY9
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",GLYCERYL MONOSTEARATE,230OU9XXE4
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",HYDROXYPROPYL CELLULOSE,RFW2ET671P
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",HYPROMELLOSE,3NXW29V3WO
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",MAGNESIUM STEARATE,70097M6I30
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",METHACRYLIC ACID,1CS02G8656
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",TALC,7SEV7J4R1U
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",POLYSORBATE 80,6OZP39ZG8H
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",TRIETHYL CITRATE,8Z96QXD6UM
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",GELATIN,2G86QN327L
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",FD&amp;C BLUE NO. 1,H3R47K3TBD
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",FD&amp;C RED NO. 40,WZB9127XOA
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",D&amp;C RED NO. 28,767IP0Y5NH
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",TITANIUM DIOXIDE,15FIX9V2JP
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",ALCOHOL,3K9958V90M
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",ISOPROPYL ALCOHOL,ND2M416302
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",BUTYL ALCOHOL,8PJ61P6TS3
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",POLYETHYLENE GLYCOL,3WJQ0SDW1A
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",SODIUM HYDROXIDE,55X04QC32I
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",POVIDONE,FZ989GH94E
+0186-5020,16590-625,20 mg,"esomeprazole magnesium  capsule, delayed release",D&amp;C YELLOW NO. 10,35SW5USQ3G

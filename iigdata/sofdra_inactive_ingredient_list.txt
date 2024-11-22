@@ -1,0 +1,6 @@
+MainDrug,NDC,Strength,Formulation,Inactive,UNII
+sofpironium bromide,83723-010,87 mg  in 0.67 mL, gel,HEXYLENE GLYCOL,KEH0A3F75J
+sofpironium bromide,83723-010,87 mg  in 0.67 mL, gel,ISOPROPYL MYRISTATE,0RE8K4LNJS
+sofpironium bromide,83723-010,87 mg  in 0.67 mL, gel,"HYDROXYPROPYL CELLULOSE, UNSPECIFIED",9XZ8H6N6OH
+sofpironium bromide,83723-010,87 mg  in 0.67 mL, gel,CITRIC ACID MONOHYDRATE,2968PHW8QP
+sofpironium bromide,83723-010,87 mg  in 0.67 mL, gel,ALCOHOL,3K9958V90M

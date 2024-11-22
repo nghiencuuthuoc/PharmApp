@@ -1,0 +1,9 @@
+MainDrug,NDC,Strength,Formulation,Inactive,UNII
+arimoclomol citrate,72542-147,47 mg, capsule,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+arimoclomol citrate,72542-147,47 mg, capsule,MAGNESIUM STEARATE,70097M6I30
+arimoclomol citrate,72542-162,62 mg, capsule,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+arimoclomol citrate,72542-162,62 mg, capsule,MAGNESIUM STEARATE,70097M6I30
+arimoclomol citrate,72542-193,93 mg, capsule,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+arimoclomol citrate,72542-193,93 mg, capsule,MAGNESIUM STEARATE,70097M6I30
+arimoclomol citrate,72542-124,124 mg, capsule,MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+arimoclomol citrate,72542-124,124 mg, capsule,MAGNESIUM STEARATE,70097M6I30

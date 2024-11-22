@@ -1,0 +1,8 @@
+MainDrug,NDC,Strength,Formulation,Inactive,UNII
+seladelpar lysine,61958-3301,10 mg, capsule,MANNITOL,3OWL53L36A
+seladelpar lysine,61958-3301,10 mg, capsule,MICROCRYSTALLINE CELLULOSE 302,91B875MM4H
+seladelpar lysine,61958-3301,10 mg, capsule,MICROCRYSTALLINE CELLULOSE 101,7T9FYH5QMK
+seladelpar lysine,61958-3301,10 mg, capsule,CROSCARMELLOSE SODIUM,M28OL1HH48
+seladelpar lysine,61958-3301,10 mg, capsule,MAGNESIUM STEARATE,70097M6I30
+seladelpar lysine,61958-3301,10 mg, capsule,SILICON DIOXIDE,ETJ7Z6XBU4
+seladelpar lysine,61958-3301,10 mg, capsule,Butylated hydroxytoluene,1P9D0Z171K

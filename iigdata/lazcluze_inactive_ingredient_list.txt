@@ -1,0 +1,23 @@
+MainDrug,NDC,Strength,Formulation,Inactive,UNII
+lazertinib,57894-240,240 mg," tablet, film coated",SILICON DIOXIDE,ETJ7Z6XBU4
+lazertinib,57894-240,240 mg," tablet, film coated",CROSCARMELLOSE SODIUM,M28OL1HH48
+lazertinib,57894-240,240 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+lazertinib,57894-240,240 mg," tablet, film coated",MANNITOL,3OWL53L36A
+lazertinib,57894-240,240 mg," tablet, film coated",MAGNESIUM STEARATE,70097M6I30
+lazertinib,57894-240,240 mg," tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+lazertinib,57894-240,240 mg," tablet, film coated","POLYVINYL ALCOHOL, UNSPECIFIED",532B59J990
+lazertinib,57894-240,240 mg," tablet, film coated",GLYCERYL MONOCAPRYLOCAPRATE,G7515SW10N
+lazertinib,57894-240,240 mg," tablet, film coated",TITANIUM DIOXIDE,15FIX9V2JP
+lazertinib,57894-240,240 mg," tablet, film coated",TALC,7SEV7J4R1U
+lazertinib,57894-240,240 mg," tablet, film coated",FERROSOFERRIC OXIDE,XM0M87F357
+lazertinib,57894-080,80 mg," tablet, film coated",SILICON DIOXIDE,ETJ7Z6XBU4
+lazertinib,57894-080,80 mg," tablet, film coated",CROSCARMELLOSE SODIUM,M28OL1HH48
+lazertinib,57894-080,80 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE,OP1R32D61U
+lazertinib,57894-080,80 mg," tablet, film coated",MANNITOL,3OWL53L36A
+lazertinib,57894-080,80 mg," tablet, film coated",MAGNESIUM STEARATE,70097M6I30
+lazertinib,57894-080,80 mg," tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED",3WJQ0SDW1A
+lazertinib,57894-080,80 mg," tablet, film coated","POLYVINYL ALCOHOL, UNSPECIFIED",532B59J990
+lazertinib,57894-080,80 mg," tablet, film coated",GLYCERYL MONOCAPRYLOCAPRATE,G7515SW10N
+lazertinib,57894-080,80 mg," tablet, film coated",TITANIUM DIOXIDE,15FIX9V2JP
+lazertinib,57894-080,80 mg," tablet, film coated",TALC,7SEV7J4R1U
+lazertinib,57894-080,80 mg," tablet, film coated",FERRIC OXIDE YELLOW,EX438O2MRT

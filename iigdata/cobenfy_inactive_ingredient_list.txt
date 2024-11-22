@@ -1,0 +1,48 @@
+MainDrug,NDC,Strength,Formulation,Inactive,UNII
+xanomeline,0003-0050,50 mg," and trospium chloride capsule, coated pellets",trospium chloride,1E6682427E
+xanomeline,0003-0050,20 mg," and trospium chloride capsule, coated pellets",microcrystalline cellulose,OP1R32D61U
+xanomeline,0003-0050,20 mg," and trospium chloride capsule, coated pellets",ascorbic acid,PQ6CK8PD0R
+xanomeline,0003-0050,20 mg," and trospium chloride capsule, coated pellets",talc,7SEV7J4R1U
+xanomeline,0003-0050,20 mg," and trospium chloride capsule, coated pellets",lactose monohydrate,EWQ57Q8I5X
+xanomeline,0003-0050,20 mg," and trospium chloride capsule, coated pellets","hypromellose, unspecified",3NXW29V3WO
+xanomeline,0003-0050,20 mg," and trospium chloride capsule, coated pellets",titanium dioxide,15FIX9V2JP
+xanomeline,0003-0050,20 mg," and trospium chloride capsule, coated pellets",ferric oxide red,1K09F3G675
+xanomeline,0003-0050,20 mg," and trospium chloride capsule, coated pellets",ferric oxide yellow,EX438O2MRT
+xanomeline,0003-1100,14  in 1 BLISTER PACK; Type 0: Not a Combination Product," and trospium chloride capsule, coated pellets",trospium chloride,1E6682427E
+xanomeline,0003-1100,20 mg," and trospium chloride capsule, coated pellets",microcrystalline cellulose,OP1R32D61U
+xanomeline,0003-1100,20 mg," and trospium chloride capsule, coated pellets",ascorbic acid,PQ6CK8PD0R
+xanomeline,0003-1100,20 mg," and trospium chloride capsule, coated pellets",talc,7SEV7J4R1U
+xanomeline,0003-1100,20 mg," and trospium chloride capsule, coated pellets",lactose monohydrate,EWQ57Q8I5X
+xanomeline,0003-1100,20 mg," and trospium chloride capsule, coated pellets","hypromellose, unspecified",3NXW29V3WO
+xanomeline,0003-1100,20 mg," and trospium chloride capsule, coated pellets",titanium dioxide,15FIX9V2JP
+xanomeline,0003-1100,20 mg," and trospium chloride capsule, coated pellets",ferric oxide red,1K09F3G675
+xanomeline,0003-1100,20 mg," and trospium chloride capsule, coated pellets",ferric oxide yellow,EX438O2MRT
+xanomeline,0003-1100,20 mg," and trospium chloride capsule, coated pellets",ferrosoferric oxide,XM0M87F357
+xanomeline,0003-0125,14  in 1 BLISTER PACK; Type 0: Not a Combination Product," and trospium chloride capsule, coated pellets",trospium chloride,1E6682427E
+xanomeline,0003-0125,30 mg," and trospium chloride capsule, coated pellets",microcrystalline cellulose,OP1R32D61U
+xanomeline,0003-0125,30 mg," and trospium chloride capsule, coated pellets",ascorbic acid,PQ6CK8PD0R
+xanomeline,0003-0125,30 mg," and trospium chloride capsule, coated pellets",talc,7SEV7J4R1U
+xanomeline,0003-0125,30 mg," and trospium chloride capsule, coated pellets",lactose monohydrate,EWQ57Q8I5X
+xanomeline,0003-0125,30 mg," and trospium chloride capsule, coated pellets","hypromellose, unspecified",3NXW29V3WO
+xanomeline,0003-0125,30 mg," and trospium chloride capsule, coated pellets",titanium dioxide,15FIX9V2JP
+xanomeline,0003-0125,30 mg," and trospium chloride capsule, coated pellets",ferric oxide red,1K09F3G675
+xanomeline,0003-5200-,52," and trospium chloride capsule, coated pellets",trospium chloride,1E6682427E
+xanomeline,0003-5200-,20 mg," and trospium chloride capsule, coated pellets",microcrystalline cellulose,OP1R32D61U
+xanomeline,0003-5200-,20 mg," and trospium chloride capsule, coated pellets",ascorbic acid,PQ6CK8PD0R
+xanomeline,0003-5200-,20 mg," and trospium chloride capsule, coated pellets",talc,7SEV7J4R1U
+xanomeline,0003-5200-,20 mg," and trospium chloride capsule, coated pellets",lactose monohydrate,EWQ57Q8I5X
+xanomeline,0003-5200-,20 mg," and trospium chloride capsule, coated pellets","hypromellose, unspecified",3NXW29V3WO
+xanomeline,0003-5200-,20 mg," and trospium chloride capsule, coated pellets",titanium dioxide,15FIX9V2JP
+xanomeline,0003-5200-,20 mg," and trospium chloride capsule, coated pellets",ferric oxide red,1K09F3G675
+xanomeline,0003-5200-,20 mg," and trospium chloride capsule, coated pellets",ferric oxide yellow,EX438O2MRT
+xanomeline,0003-5200-,20 mg," and trospium chloride capsule, coated pellets",ferrosoferric oxide,XM0M87F357
+xanomeline,0003-5150-,10," and trospium chloride capsule, coated pellets",trospium chloride,1E6682427E
+xanomeline,0003-5150-,20 mg," and trospium chloride capsule, coated pellets",microcrystalline cellulose,OP1R32D61U
+xanomeline,0003-5150-,20 mg," and trospium chloride capsule, coated pellets",ascorbic acid,PQ6CK8PD0R
+xanomeline,0003-5150-,20 mg," and trospium chloride capsule, coated pellets",talc,7SEV7J4R1U
+xanomeline,0003-5150-,20 mg," and trospium chloride capsule, coated pellets",lactose monohydrate,EWQ57Q8I5X
+xanomeline,0003-5150-,20 mg," and trospium chloride capsule, coated pellets","hypromellose, unspecified",3NXW29V3WO
+xanomeline,0003-5150-,20 mg," and trospium chloride capsule, coated pellets",titanium dioxide,15FIX9V2JP
+xanomeline,0003-5150-,20 mg," and trospium chloride capsule, coated pellets",ferric oxide red,1K09F3G675
+xanomeline,0003-5150-,20 mg," and trospium chloride capsule, coated pellets",ferric oxide yellow,EX438O2MRT
+xanomeline,0003-5150-,20 mg," and trospium chloride capsule, coated pellets",ferrosoferric oxide,XM0M87F357

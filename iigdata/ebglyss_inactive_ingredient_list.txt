@@ -1,0 +1,11 @@
+MainDrug,NDC,Strength,Formulation,Inactive,UNII
+lebrikizumab,0002-7772,250 mg  in 2 mL,"-lbkz injection, solution",Histidine,4QD397987E
+lebrikizumab,0002-7772,250 mg  in 2 mL,"-lbkz injection, solution",Acetic acid,Q40Q9N063P
+lebrikizumab,0002-7772,250 mg  in 2 mL,"-lbkz injection, solution",Sucrose,C151H8M554
+lebrikizumab,0002-7772,250 mg  in 2 mL,"-lbkz injection, solution",Polysorbate 20,7T1F30V5YH
+lebrikizumab,0002-7772,250 mg  in 2 mL,"-lbkz injection, solution",Water,059QF0KO0R
+lebrikizumab,0002-7797,250 mg  in 2 mL,"-lbkz injection, solution",Histidine,4QD397987E
+lebrikizumab,0002-7797,250 mg  in 2 mL,"-lbkz injection, solution",Acetic acid,Q40Q9N063P
+lebrikizumab,0002-7797,250 mg  in 2 mL,"-lbkz injection, solution",Sucrose,C151H8M554
+lebrikizumab,0002-7797,250 mg  in 2 mL,"-lbkz injection, solution",Polysorbate 20,7T1F30V5YH
+lebrikizumab,0002-7797,250 mg  in 2 mL,"-lbkz injection, solution",Water,059QF0KO0R
