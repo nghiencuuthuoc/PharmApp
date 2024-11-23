@@ -30,7 +30,21 @@ Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc
 - [Video](#Video)
 - [License](#License)
 
-
+## Abbreviation
+| Abbreviation | Full text |
+| ----------- | ----------- |
+|iig |  Inactive ingredient |
+|pd / pdg |  pandasgui|
+|dt |  dtale|
+|pa |  pharmapp|
+|iigs |  inactive ingredient SageRX|
+|iig |  Inactive ingredient DailyMed|
+|st | streamlit|
+|cli |  command line|
+|formula / form |  Formulation|
+|nb | nbopen|
+|env |  enviroment|
+|col | column|
 ## Installation
 
 You can install for `PharmApp` using use pip:
@@ -131,6 +145,7 @@ Python312\Scripts\activate  # Windows
 ## Video
 [View more videos on YouTube](https://www.youtube.com/@nghiencuuthuoc)
 
+## [Setup SageRX](https://github.com/coderxio/sagerx)
 ## License
 
 Under the GPL-2.0-1. See [LICENSE](LICENSE.txt).
