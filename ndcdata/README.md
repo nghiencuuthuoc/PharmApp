@@ -18,7 +18,7 @@ LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsAapp: +8488
 
 Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc 
 
-#National Drug Code (NDC) Data
+# National Drug Code (NDC) Data
 National Drug Code (NDC), a unique 10-digit, three-segment number assigned to each medication package in the United States.  The NDC is used to identify the labeler (manufacturer or distributor), product (drug and dosage form), and trade package size.  It's not an identification number for the specific drug itself but rather for a specific commercial package of a drug.
 
 ## Here's a breakdown of the NDC structure:
