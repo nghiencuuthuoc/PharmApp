@@ -1,0 +1,35 @@
+\get_list_file.bat 
+\LicensesbySiteName.xls 
+\LicensesByState.xls 
+\Section11ByTradeName.xls 
+\Section12byApplicationNumber.xls 
+\Section3PatentInformation.xls 
+\Section4ExclusivityPeriods.xls 
+\Section5NoticeofHearing.xls 
+\Section6VoluntaryWithdrawal.xls 
+\Section7SuitabilityPetition.xls 
+\_file_list.txt 
+\Animal Drugs @ FDA.url 
+\get_list_file.bat 
+\LicensesbySiteName.xls 
+\LicensesByState.xls 
+\Section11ByTradeName.xls 
+\Section12byApplicationNumber.xls 
+\Section3PatentInformation.xls 
+\Section4ExclusivityPeriods.xls 
+\Section5NoticeofHearing.xls 
+\Section6VoluntaryWithdrawal.xls 
+\Section7SuitabilityPetition.xls 
+\_file_list.txt 
+\Animal Drugs @ FDA.url 
+\get_list_file.bat 
+\LicensesbySiteName.xls 
+\LicensesByState.xls 
+\Section11ByTradeName.xls 
+\Section12byApplicationNumber.xls 
+\Section3PatentInformation.xls 
+\Section4ExclusivityPeriods.xls 
+\Section5NoticeofHearing.xls 
+\Section6VoluntaryWithdrawal.xls 
+\Section7SuitabilityPetition.xls 
+\_file_list.txt 
