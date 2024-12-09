@@ -1,4 +1,5 @@
-# Mã số thuốc quốc gia (NDC - National Drug Code).  Đây là một mã số gồm 10 chữ số, được chia thành ba phần, dùng để định danh mỗi sản phẩm thuốc được đóng gói tại Hoa Kỳ.  Mã NDC không định danh chính xác loại thuốc mà là một gói thuốc cụ thể của một loại thuốc nhất định.
+# Mã số thuốc quốc gia (NDC - National Drug Code)
+Đây là một mã số gồm 10 chữ số, được chia thành ba phần, dùng để định danh mỗi sản phẩm thuốc được đóng gói tại Hoa Kỳ.  Mã NDC không định danh chính xác loại thuốc mà là một gói thuốc cụ thể của một loại thuốc nhất định.
 
 ## Cấu trúc mã NDC:
 
