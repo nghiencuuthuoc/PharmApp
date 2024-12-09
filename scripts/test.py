@@ -14,11 +14,12 @@ import pandas as pd
 import numpy as np
 import os
 import xlsxwriter
+import base64
 # Use this function if you want to make the dashboard fit the screen width
 # st.set_page_config(layout='wide')
 
 st.set_page_config(
-        page_title="view_iig_pdg_st",
+        page_title="PharmApp",
         layout="wide",  # Use full width of the browser
         initial_sidebar_state="auto"
     )
@@ -88,6 +89,13 @@ sheet_iig = drug_name_short + '_iig'
 iig_xlsx_path =  os.path.join('../iig2excel', iig_xlsx)
 
 
+# Download CSV data
+# https://discuss.streamlit.io/t/how-to-download-file-in-streamlit/1806
+def filedownload(df, filename):
+    csv = df.to_csv(index=False)
+    b64 = base64.b64encode(csv.encode()).decode()  # strings <-> bytes conversions
+    href = f'<a href="data:file/csv;base64,{b64}" download={filename}>Download {filename} File</a>'
+    return href
 
 # save and view iig_xlsx
 def save_xlsx(df_iigs):
@@ -123,6 +131,10 @@ st.sidebar.button("Next 👉",on_click=nextpage,disabled=(st.session_state.page 
 if st.session_state.page == 0:
     st.markdown("<img src='https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/master/images/PharmApp-logo.png' style='display: block; margin: 0 auto;'>" 
             , unsafe_allow_html=True)
+    st.markdown("""
+                [Email: nghiencuuthuoc@gmail.com](mailto:nghiencuuthuoc@gmail.com) | [Web: nghiencuuthuoc.com](https://www.nghiencuuthuoc.com/) | [FB: facebook.com/nghiencuuthuoc](https://www.facebook.com/nghiencuuthuoc/) | [LinkedIn: linkedin.com/in/nghiencuuthuoc](https://www.linkedin.com/in/nghiencuuthuoc) | [Zalo Group](https://zalo.me/g/bnnzbi986) | [WhatsApp Group](https://chat.whatsapp.com/H1N4f7UBfoaIxZhkEWPAHu) | [Twitter: x.com/nghiencuuthuoc](https://www.x.com/nghiencuuthuoc) | [YouTube: youtube.com/@nghiencuuthuoc](https://www.youtube.com/@nghiencuuthuoc)
+                """)
+    
     st.markdown(""" #### 1. Chemical Information """)
     # st.write("Loading data of", drug_name, ". Click Next 👉")
     # st.write("Loading data of", drug_name, "...")
@@ -179,19 +191,7 @@ if st.session_state.page == 0:
     FDA_APPROVED_filted = search(FDA_APPROVED_df, drug_input)
     st.dataframe(FDA_APPROVED_filted)
 
-    # pubchempy get solubility
-    # import src.solubility as sol
-    # st.write('Solubility data from PubChem')
-    # st.write(sol.get_solubility(drug_input))
     st.markdown(""" ##### 1.3 Pubchempy get solubility """)
-    # import src.solubility as sol
-    # try:
-    #     if get_solubility(drug_input) is not None:
-    #         st.write('Solubility data from PubChem')
-    #         st.write(sol.get_solubility(drug_input))
-    # except:
-    #     st.write('No data')
-    #     pass
     try:
         import pubchempy as pcp 
         import re
@@ -235,69 +235,65 @@ if st.session_state.page == 0:
             - Wettability
             - Powder
                 """)
+
+
+elif st.session_state.page == 1:
+
     st.markdown(""" ##### 2. Drug Approved
-        Information about drug approved source:
-            - Drugs@FDA Data Files
-            - EMC
-                """)
+    Information about drug approved source:
+        - Drugs@FDA Data Files
+                
+        - Animal Drugs @ FDA
+                
+        - EMC
+                
+        - Orange Book
+
+            """)
     st.markdown(""" ##### 2.1 Drugs@FDA Data Files""")
     Drugs_FDA_2024_df = pd.read_csv('../Drugs@FDA/' + "Drugs_FDA_2024.csv", on_bad_lines='skip', low_memory=False)
     Drugs_FDA_2024_filted = search(Drugs_FDA_2024_df, drug_input)
     st.dataframe(Drugs_FDA_2024_filted)
 
-elif st.session_state.page == 1:
+    st.markdown(""" ##### 2.2 Animal Drugs @ FDA""")
+    animal_drugs_fda_full = pd.read_csv('../animaldrugsatfda/' + "animal_drugs_fda_full.csv", on_bad_lines='skip', low_memory=False)
+    animal_drugs_fda_full_filted = search(animal_drugs_fda_full, drug_input)
+    st.dataframe(animal_drugs_fda_full_filted)
+    
     # placeholder.text("Check inactive ingredient data")
-    st.markdown(""" #### 3. Check inactive ingredient data""")
+    st.markdown(""" #### 3. Drugs and Patent Information in Orange Book""")
+    orange_book_full_df = pd.read_csv('../orange_book/orange_book_full.csv', on_bad_lines='skip', low_memory=False)
+    orange_book_full_filted = search(orange_book_full_df, drug_input)
+    st.dataframe(orange_book_full_filted)
+    ob_patent_export = drug_name + '_patent.csv'
+    st.sidebar.markdown(filedownload(orange_book_full_filted, ob_patent_export), unsafe_allow_html=True)
+
+elif st.session_state.page == 2:
+    st.markdown(""" #### 4. All Dosage Form""")
     # Save file inactive_ingredient_list.txt
-    iig_txt = drug_name + "_inactive_ingredient_list.txt"
-    iig_txt_path = os.path.join('../iigdata', iig_txt)
     if os.path.isfile(iig_txt_path) == True:
-        # print(f'{drug_name} exist')
-        st.write(f'Data of {drug_input} exist. Click Next 👉')
+        pd.set_option("display.max_rows", None, "display.max_columns", None)
+        df_iig = pd.read_csv(iig_txt_path)
+        st.markdown(""" ##### 4.1 Dosage Form: DailyMed""")
+        st.dataframe(df_iig)
     else:
-        # get iig
-        # import src.pharmappiig013 as pa
-        # st.write(f'{drug_name} not exist, please wait loading... ')
         import src.pharmappiig017dev as pa
         pa.get_inactive_ingredient(name_drug=drug_name)
         
         if os.path.isfile(iig_txt_path) == True:
-            st.write(f'{drug_input} load done 😀')
+                   pd.set_option("display.max_rows", None, "display.max_columns", None)
+                   df_iig = pd.read_csv(iig_txt_path)
+                   st.markdown(""" ##### 4.1 Dosage Form: DailyMed""")
+                   st.dataframe(df_iig)
         else:
-            st.write(f'{drug_input} not exist. Click Next to Restart 👉')
-    
+            st.write(f'IIG of {drug_input} not exist.')
 
-elif st.session_state.page == 2:
-    # st.write('---')
-    # st.markdown("<h1 style='text-align: center; color: red;'>Extract Inactive Ingredient Drug on DailyMed</h1>", unsafe_allow_html=True)
-    # st.subheader('Extract Inactive Ingredient Drug on DailyMed')
-
-    # # st.subheader("Text input")
-    # st.write('---')
-    # Replace the chart with several elements:
-    # placeholder.text("View Full Inactive Ingredient Data")
-    st.markdown(""" #### 4. All Dosage Form""")
-    # st.write('---')
-    # view data
-    iig_txt = drug_name + "_inactive_ingredient_list.txt"
-    iig_txt_path = os.path.join('../iigdata', iig_txt)
-
-    if os.path.isfile(iig_txt_path):
-        pd.set_option("display.max_rows", None, "display.max_columns", None)
-        df_iig = pd.read_csv(iig_txt_path)
-        
-        if df_iig is not None:
-            st.markdown(""" ##### 4.1 Dosage Form: DailyMed""")
-            st.dataframe(df_iig)
-    else:
-        st.write(f'{drug_input} not exist. Click Next to Restart 👉')
-
-    st.markdown(""" ##### 4.2 Dosage Form: SageRX""")
 
     if os.path.isfile(iigs_txt_path) == True:
         # st.write(f'{drug_name} exist in iigsdata folder!')
         df_iigs = pd.read_csv(iigs_txt_path)
         save_xlsx(df_iigs)
+        st.markdown(""" ##### 4.2 Dosage Form: SageRX""")
         st.dataframe(df_iigs)
         df_product_name = df_iigs['product_name']
         df_product_name.drop_duplicates(inplace=True)
@@ -312,6 +308,7 @@ elif st.session_state.page == 2:
         df_iigs = df_iigs.reset_index(drop=True)
         df_iigs.to_csv(iigs_txt_path, mode='a', index = False, header=True)
         save_xlsx(df_iigs)
+        st.markdown(""" ##### 4.2 Dosage Form: SageRX""")
         st.dataframe(df_iigs)
         df_product_name = df_iigs['product_name']
         df_product_name.drop_duplicates(inplace=True)

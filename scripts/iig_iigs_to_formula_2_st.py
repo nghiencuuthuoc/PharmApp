@@ -14,7 +14,6 @@ import pandas as pd
 import numpy as np
 import os
 import xlsxwriter
-import base64
 # Use this function if you want to make the dashboard fit the screen width
 # st.set_page_config(layout='wide')
 
@@ -89,13 +88,6 @@ sheet_iig = drug_name_short + '_iig'
 iig_xlsx_path =  os.path.join('../iig2excel', iig_xlsx)
 
 
-# Download CSV data
-# https://discuss.streamlit.io/t/how-to-download-file-in-streamlit/1806
-def filedownload(df, filename):
-    csv = df.to_csv(index=False)
-    b64 = base64.b64encode(csv.encode()).decode()  # strings <-> bytes conversions
-    href = f'<a href="data:file/csv;base64,{b64}" download={filename}>Download {filename} File</a>'
-    return href
 
 # save and view iig_xlsx
 def save_xlsx(df_iigs):
@@ -131,10 +123,6 @@ st.sidebar.button("Next 👉",on_click=nextpage,disabled=(st.session_state.page 
 if st.session_state.page == 0:
     st.markdown("<img src='https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/master/images/PharmApp-logo.png' style='display: block; margin: 0 auto;'>" 
             , unsafe_allow_html=True)
-    st.markdown("""
-                [Email: nghiencuuthuoc@gmail.com](mailto:nghiencuuthuoc@gmail.com) | [Web: nghiencuuthuoc.com](https://www.nghiencuuthuoc.com/) | [FB: facebook.com/nghiencuuthuoc](https://www.facebook.com/nghiencuuthuoc/) | [LinkedIn: linkedin.com/in/nghiencuuthuoc](https://www.linkedin.com/in/nghiencuuthuoc) | [Zalo Group](https://zalo.me/g/bnnzbi986) | [WhatsApp Group](https://chat.whatsapp.com/H1N4f7UBfoaIxZhkEWPAHu) | [Twitter: x.com/nghiencuuthuoc](https://www.x.com/nghiencuuthuoc) | [YouTube: youtube.com/@nghiencuuthuoc](https://www.youtube.com/@nghiencuuthuoc)
-                """)
-    
     st.markdown(""" #### 1. Chemical Information """)
     # st.write("Loading data of", drug_name, ". Click Next 👉")
     # st.write("Loading data of", drug_name, "...")
@@ -191,7 +179,19 @@ if st.session_state.page == 0:
     FDA_APPROVED_filted = search(FDA_APPROVED_df, drug_input)
     st.dataframe(FDA_APPROVED_filted)
 
+    # pubchempy get solubility
+    # import src.solubility as sol
+    # st.write('Solubility data from PubChem')
+    # st.write(sol.get_solubility(drug_input))
     st.markdown(""" ##### 1.3 Pubchempy get solubility """)
+    # import src.solubility as sol
+    # try:
+    #     if get_solubility(drug_input) is not None:
+    #         st.write('Solubility data from PubChem')
+    #         st.write(sol.get_solubility(drug_input))
+    # except:
+    #     st.write('No data')
+    #     pass
     try:
         import pubchempy as pcp 
         import re
@@ -235,35 +235,23 @@ if st.session_state.page == 0:
             - Wettability
             - Powder
                 """)
-
-
-elif st.session_state.page == 1:
-
     st.markdown(""" ##### 2. Drug Approved
-    Information about drug approved source:
-        - Drugs@FDA Data Files
-        - Animal Drugs @ FDA
-        - EMC
-        - Orange Book
-
-            """)
+        Information about drug approved source:
+            - Drugs@FDA Data Files
+            - EMC
+                """)
     st.markdown(""" ##### 2.1 Drugs@FDA Data Files""")
     Drugs_FDA_2024_df = pd.read_csv('../Drugs@FDA/' + "Drugs_FDA_2024.csv", on_bad_lines='skip', low_memory=False)
     Drugs_FDA_2024_filted = search(Drugs_FDA_2024_df, drug_input)
     st.dataframe(Drugs_FDA_2024_filted)
 
-    st.markdown(""" ##### 2.2 Animal Drugs @ FDA""")
-    animal_drugs_fda_full = pd.read_csv('../animaldrugsatfda/' + "animal_drugs_fda_full.csv", on_bad_lines='skip', low_memory=False)
-    animal_drugs_fda_full_filted = search(animal_drugs_fda_full, drug_input)
-    st.dataframe(animal_drugs_fda_full_filted)
-    
+elif st.session_state.page == 1:
     # placeholder.text("Check inactive ingredient data")
-    st.markdown(""" #### 3. Drugs and Patent Information in Orange Book""")
+    st.markdown(""" #### 3. Patent Information""")
     orange_book_full_df = pd.read_csv('../orange_book/orange_book_full.csv', on_bad_lines='skip', low_memory=False)
     orange_book_full_filted = search(orange_book_full_df, drug_input)
     st.dataframe(orange_book_full_filted)
-    ob_patent_export = drug_name + '_patent.csv'
-    st.sidebar.markdown(filedownload(orange_book_full_filted, ob_patent_export), unsafe_allow_html=True)
+    
 
 elif st.session_state.page == 2:
     st.markdown(""" #### 4. All Dosage Form""")
