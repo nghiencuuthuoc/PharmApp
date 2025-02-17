@@ -8,8 +8,8 @@
 </table>
 
 ![](./images/PharmApp-logo.png)
-# PharmApp - Drug Discovery and Development
-Copyright 2024 | Nghiên Cứu Thuốc | RD_Pharma_Plus
+# **PharmApp** - 🧠 AI for Research and Development Pharmaceuticals
+Copyright 2025 | Nghiên Cứu Thuốc | RnD_Pharma_Plus
 
 Email: nghiencuuthuoc@gmail.com | Web: nghiencuuthuoc.com | FB: facebook.com/nghiencuuthuoc 
 
@@ -17,8 +17,6 @@ LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsAapp: +8488
 
 Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc 
 
-
-**PharmApp** are tools for research and development pharmaceuticals
 
 
 ## Table of Contents
