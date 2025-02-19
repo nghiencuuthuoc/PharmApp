@@ -1,0 +1,15 @@
+ALCOA++ là một chuẩn (framework) được phát triển để đảm bảo chất lượng và tính toàn vẹn của dữ liệu trong các ngành công nghiệp như dược phẩm, thực phẩm và y tế, nơi mà việc theo dõi và lưu trữ dữ liệu một cách chính xác và đáng tin cậy là cực kỳ quan trọng.
+
+ALCOA++ mở rộng từ nguyên tắc ALCOA ban đầu, với các yếu tố chính sau:
+
+- **A** (Attributable) - Dữ liệu phải có thể truy xuất nguồn gốc, tức là phải biết ai đã nhập dữ liệu và khi nào.
+- **L** (Legible) - Dữ liệu phải rõ ràng và dễ đọc.
+- **C** (Contemporaneous) - Dữ liệu phải được ghi lại vào thời điểm thực hiện hành động.
+- **O** (Original) - Dữ liệu phải là bản gốc và không bị thay đổi.
+- **A** (Accurate) - Dữ liệu phải chính xác và không có sai sót.
+- **++** (Comprehensive) - Dữ liệu phải đầy đủ và chi tiết.
+- **Consistency** - Dữ liệu phải nhất quán trong suốt quá trình.
+- **Complete** - Dữ liệu phải đầy đủ, không thiếu sót.
+- **Enduring** - Dữ liệu phải bền vững và có thể duy trì lâu dài.
+
+ALCOA++ được sử dụng trong các môi trường yêu cầu tuân thủ các quy định nghiêm ngặt về quản lý dữ liệu, ví dụ như trong FDA (Cục Quản lý Thực phẩm và Dược phẩm Mỹ), để đảm bảo rằng dữ liệu không bị sửa đổi, mất mát hoặc làm sai lệch quá trình sản xuất và thử nghiệm.
