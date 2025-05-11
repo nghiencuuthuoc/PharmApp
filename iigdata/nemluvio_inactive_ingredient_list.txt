@@ -1,6 +1,0 @@
-MainDrug,NDC,Strength,Formulation,Inactive,UNII
-nemolizumab,0299-6220,30 mg  in 100 mg,"-ilto injection, powder, lyophilized, for solution",Sucrose,C151H8M554
-nemolizumab,0299-6220,30 mg  in 100 mg,"-ilto injection, powder, lyophilized, for solution",Tromethamine,023C2WHX2V
-nemolizumab,0299-6220,30 mg  in 100 mg,"-ilto injection, powder, lyophilized, for solution",Tromethamine Hydrochloride,383V75M34E
-nemolizumab,0299-6220,30 mg  in 100 mg,"-ilto injection, powder, lyophilized, for solution",Poloxamer 188,LQA7B6G8JG
-nemolizumab,0299-6220,30 mg  in 100 mg,"-ilto injection, powder, lyophilized, for solution",Water,059QF0KO0R

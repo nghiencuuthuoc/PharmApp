@@ -1,5 +1,0 @@
-MainDrug,NDC,Strength,Formulation,Inactive,UNII
-zolbetuximab,0469-3425,20 mg  in 1 mL," injection, powder, for suspension",ARGININE,94ZLA3W45F
-zolbetuximab,0469-3425,20 mg  in 1 mL," injection, powder, for suspension",SUCROSE,C151H8M554
-zolbetuximab,0469-3425,20 mg  in 1 mL," injection, powder, for suspension",POLYSORBATE 80,6OZP39ZG8H
-zolbetuximab,0469-3425,20 mg  in 1 mL," injection, powder, for suspension",PHOSPHORIC ACID,E4GA8884NN

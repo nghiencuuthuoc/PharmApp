@@ -1,6 +1,0 @@
-MainDrug,NDC,Strength,Formulation,Inactive,UNII
-"amino acids, soy",84067-766,10 mg  in 60 mL,colored self-tanning gel,CHRYSIN,3CN01F5ZJ5
-"amino acids, soy",84067-766,10 mg  in 60 mL,colored self-tanning gel,AVOCADO OIL,6VNO72PFC1
-"amino acids, soy",84067-766,15 mg  in 60 mL,colored self-tanning gel,DIMETHICONE,92RU3N3Y1O
-"amino acids, soy",84067-766,20 mg  in 60 mL,colored self-tanning gel,WATER,059QF0KO0R
-"amino acids, soy",84067-766,20 mg  in 60 mL,colored self-tanning gel,HYALURONATE SODIUM,YSE9PPT4TH

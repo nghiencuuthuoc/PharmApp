@@ -1,7 +1,0 @@
-MainDrug,NDC,Strength,Formulation,Inactive,UNII
-axatilimab,50881-012,50 mg  in 1 mL,-csfr injection,CITRIC ACID MONOHYDRATE,2968PHW8QP
-axatilimab,50881-012,50 mg  in 1 mL,-csfr injection,SODIUM CITRATE,1Q73Q2JULR
-axatilimab,50881-012,50 mg  in 1 mL,-csfr injection,GLYCINE,TE7660XO1C
-axatilimab,50881-012,50 mg  in 1 mL,-csfr injection,SUCROSE,C151H8M554
-axatilimab,50881-012,50 mg  in 1 mL,-csfr injection,POLYSORBATE 80,6OZP39ZG8H
-axatilimab,50881-012,50 mg  in 1 mL,-csfr injection,WATER,059QF0KO0R
